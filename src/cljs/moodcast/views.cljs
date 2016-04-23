@@ -4,7 +4,8 @@
             [cljs-time.core :as time]
             [cljs-time.format :as timef]
             [goog.string :as gstring]
-            [goog.string.format]))
+            [goog.string.format]
+            [moodcast.svg :as svg]))
 
 
 (def formatter-fi (timef/formatter "dd.MM.yyyy"))

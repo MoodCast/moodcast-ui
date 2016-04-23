@@ -5,7 +5,8 @@
               [moodcast.subs]
               [moodcast.routes :as routes]
               [moodcast.views :as views]
-              [moodcast.config :as config]))
+              [moodcast.config :as config]
+              [moodcast.svg :as svg]))
 
 (when config/debug?
   (println "dev mode"))
@@ -22,5 +23,6 @@
   (routes/app-routes)
   (re-frame/dispatch-sync [:initialize-db])
   ;;(slack/connect)
+  (svg/load-svg "img/sharkmanBody.svg")
   (track-scroll)
   (mount-root))
