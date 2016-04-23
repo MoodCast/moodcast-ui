@@ -28,22 +28,24 @@
   [:.avatar
    {:width (px 200)
     :height (px 320)}
-   [:.part.sharkman.mask {:left (px 48)
-                          :top (px -370)
+   [:.part.sharkman {:left (px -65)
+                     :top (px -310)}]
+   [:.part.sharkman.mask {:left (px (- 48 65))
+                          :top (px (- -370 310))
                           :z-index 30}]
-   [:.part.sharkman.mask.normal {:left (px 58)
-                                 :top (px -370)}]
+   [:.part.sharkman.mask.normal {:left (px (- 38 65))
+                                 :top (px (- -370 310))}]
+   [:.part.sharkman.body.normal {:left (px -85)
+                                :top (px -310)}]
    [:.part.sharkman.face {:position :relative
-                          :left (px 52)
-                          :top (px -440)
+                          :left (px (- 52 65))
+                          :top (px (- -440 310))
                           :z-index 20}
     [:img {:width (px 64)
            :height (px 64)
            :border [[(px 1) :solid :red]]}]]
-   [:.part.sharkman.face.normal {:position :relative
-                                 :left (px 61)
-                                 :top (px -440)
-                                 :z-index 20}]
+   [:.part.sharkman.face.normal {:left (px (- 41 65))
+                                 :top (px (- -440 310))}]
 
    [:.part.ironman {:left (px -55)
                     :top (px -350)}]
