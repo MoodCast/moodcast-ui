@@ -20,7 +20,7 @@
 (re-frame/register-sub
  :people
  (fn [db _]
-   (reaction (vals (:people @db)))))
+   (reaction (:people @db))))
 
 (re-frame/register-sub
  :person

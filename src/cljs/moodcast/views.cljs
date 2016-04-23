@@ -64,17 +64,17 @@
 (defn avatar->svg [person-id id state position face]
   (let [avatars (re-frame/subscribe [:avatars])]
     (fn [person-id id state position]
-      (println "AVATAR" id)
+      (println "AVATARS" (keys @avatars))
       (let [avatar (get @avatars id)
             body-string (get-in avatar [:body state])
             face-view [:img {:src (or face "")}]
             mask-string (get-in avatar [:mask state])
             [x y] position]
-        (into [:div.avatar {:id person-id :style {:position :absolute :left x :top y}}
-               [:span (name person-id)]]
+        (into [:div.avatar {:id person-id :style {:position :absolute :left x :top y}}]
               [[avatar-part-div [id :body state] body-string]
                [avatar-part-div [id :face state] face-view]
                [avatar-part-div [id :mask state] mask-string]
+               [:span.name (name person-id)]
                ])))))
 
 (defn background [id]
@@ -92,15 +92,26 @@
         [avatar->svg (:id @person) (:avatar @person) (:state @person) (:position @person) (:face @person)]
         [:span]))))
 
+(defn random-person []
+  (let [id (keyword (str "p" (rand-int 1000000)))
+        avatar (rand-nth [:ironman :sharkman])
+        state (if (< (rand 0.5)) :normal :happy)]
+    (println id avatar state)
+    (re-frame/dispatch [:avatar-change id avatar])
+    (re-frame/dispatch [:state-change id state])))
+
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])]
     (fn []
+      (println "PEOPLE" (keys @people))
       [:div
-       [:div.controls [:button {:on-click #(do (re-frame/dispatch [:avatar-change :ile (if (< (rand) 0.5) :sharkman :ironman)])
+       [:div.controls
+        [:button {:on-click random-person} "random"]
+        #_[:button {:on-click #(do (re-frame/dispatch [:avatar-change :ile (if (< (rand) 0.5) :sharkman :ironman)])
                                                (re-frame/dispatch [:state-change :ile (if (< (rand) 0.5) :normal :happy)]))} "test"]]
        [:div.middle "M"]
        [background :disco]
-       (into [:div.people] (map (fn [p] [person-view (:id p)]) @people))
+       (into [:div.people] (map (fn [p] [person-view (:id p)]) (vals @people)))
        ])))
 
 

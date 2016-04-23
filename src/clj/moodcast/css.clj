@@ -66,4 +66,16 @@
    [:.part {:position :relative
             :left (px 0)
             :top (px 0)
-            :width (em 2)}]])
+            :width (em 2)}]
+   [:.name {:color "#333"
+            :font-weight :bold
+            :font-variant :small-caps
+            :display :inline-block
+            :font-size (em 1.5)
+            :text-align :center
+            :margin-left (em -4.6)
+            :width (em 10)
+            ;;:border "1px solid black"
+            :position :relative
+            :left (px 0)
+            :top (px -860)}]])
