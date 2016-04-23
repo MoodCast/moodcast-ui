@@ -20,12 +20,17 @@
 (re-frame/register-sub
  :people
  (fn [db _]
-   (reaction (sort-by :name (remove :disabled? (vals (:people @db)))))))
+   (reaction (vals (:people @db)))))
 
 (re-frame/register-sub
  :avatars
  (fn [db _]
    (reaction (vals (:avatars @db)))))
+
+(re-frame/register-sub
+ :avatar
+ (fn [db [_ id]]
+   (reaction (get (:avatars @db) id))))
 
 (re-frame/register-sub
  :scroll

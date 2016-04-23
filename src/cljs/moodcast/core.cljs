@@ -23,6 +23,6 @@
   (routes/app-routes)
   (re-frame/dispatch-sync [:initialize-db])
   ;;(slack/connect)
-  (svg/load-avatar "img/sharkmanBody.svg" "img/sharkmanMask.svg" "img/sharkmanBodyH.svg" "img/sharkmanMaskH.svg")
+  (svg/load-avatar :sharkman "img/sharkmanBody.svg" "img/sharkmanMask.svg" "img/sharkmanBodyH.svg" "img/sharkmanMaskH.svg")
   (track-scroll)
   (mount-root))
