@@ -25,8 +25,8 @@
 
 (re-frame/register-handler
  :load-svg
- (fn [db [_ name svg]]
-   (assoc-in db [:svgs name] svg)))
+ (fn [db [_ name item state svg]]
+   (assoc-in db [:avatars name item state] svg)))
 
 (re-frame/register-handler
  :message

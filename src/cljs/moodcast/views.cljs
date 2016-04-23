@@ -54,15 +54,16 @@
   [:div {:dangerouslySetInnerHTML
          #js{:__html html-content}}])
 
-(defn to-svg [svg-string]
-  (html-div svg-string))
+(defn avatar->svg [avatar]
+  (let [svg-string (get-in avatar [:body :normal])]
+    (html-div svg-string)))
 
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])
-        svgs (re-frame/subscribe [:svgs])]
+        avatars (re-frame/subscribe [:avatars])]
     (fn []
       [:div
-       (into [:div.people] (map to-svg @svgs))
+       (into [:div.people] (map avatar->svg @avatars))
 ;;       (map to-svg @svgs)
        ])))
 

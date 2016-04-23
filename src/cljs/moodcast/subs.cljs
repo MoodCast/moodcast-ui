@@ -23,9 +23,9 @@
    (reaction (sort-by :name (remove :disabled? (vals (:people @db)))))))
 
 (re-frame/register-sub
- :svgs
+ :avatars
  (fn [db _]
-   (reaction (vals (:svgs @db)))))
+   (reaction (vals (:avatars @db)))))
 
 (re-frame/register-sub
  :scroll
