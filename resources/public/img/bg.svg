@@ -29,7 +29,7 @@
 		<use xlink:href="#New_Symbol"  width="20" height="10.707" x="-10" y="-5.354" transform="matrix(0.7961 0 0 0.7961 -8.0483 70.4902)" style="overflow:visible;"/>
 	<g style="opacity:0.8;">
 		
-			<image style="overflow:visible;" width="140" height="94" xlink:href="DE683761D209DD2E.png"  transform="matrix(1 0 0 -1 -66 118)">
+			<image style="overflow:visible;" width="140" height="94" xlink:href="DE683761D209DD24.png"  transform="matrix(1 0 0 -1 -66 118)">
 		</image>
 	</g>
 	<path style="fill:#282D36;" d="M26.781-89.261c0,0-27.816,11.276-30.126,12.53c-0.003,0.415-1.689-1.838-4.091-2.098
@@ -72,15 +72,6 @@
 		c12.15,0,22,9.85,22,22S12.15,22,0,22z M0-12c-6.627,0-12,5.373-12,12s5.373,12,12,12S12,6.627,12,0S6.627-12,0-12z"/>
 	<polygon style="display:none;fill:none;" points="-52,52 52,52 52,-52 -52,-52 	"/>
 </symbol>
-<pattern  x="448" y="-1104" width="26" height="28" patternUnits="userSpaceOnUse" id="New_Pattern_2" viewBox="0 -28 26 28" style="overflow:visible;">
-	<g>
-		<polygon style="fill:none;" points="0,-28 26,-28 26,0 0,0 		"/>
-		<polygon style="fill:#44484F;" points="13,-14 0,-14 0,-28 13,-28 		"/>
-		<polygon style="fill:#FFFFFF;" points="26,-14 13,-14 13,-27 26,-27 		"/>
-		<polygon style="fill:#44484F;" points="13,-14 26,-14 26,0 13,0 		"/>
-		<polygon style="fill:#FFFFFF;" points="0,-14 13,-14 13,-1 0,-1 		"/>
-	</g>
-</pattern>
 <g id="New_Symbol_2">
 </g>
 <g>
@@ -90,11 +81,788 @@
 	<clipPath id="SVGID_2_">
 		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 	</clipPath>
+	<g style="opacity:0.6;clip-path:url(#SVGID_2_);">
+		<g>
+			<defs>
+				<rect id="SVGID_3_" x="1108" y="215" width="806" height="176"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1902.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1902" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1922" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1922" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1902" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1902.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1902" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1922" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1922" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1902" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1902.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1902" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1922" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1922" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1902" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1902.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1902" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1922" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1922" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1902" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1902.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1902" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1922" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1922" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1902" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1863.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1863" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1883" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1883" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1863" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1863.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1863" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1883" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1883" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1863" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1863.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1863" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1883" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1883" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1863" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1863.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1863" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1883" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1883" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1863" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1863.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1863" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1883" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1883" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1863" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1824.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1824" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1844" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1844" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1824" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1824.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1824" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1844" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1844" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1824" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1824.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1824" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1844" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1844" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1824" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1824.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1824" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1844" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1844" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1824" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1824.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1824" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1844" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1844" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1824" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1785.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1785" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1805" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1805" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1785" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1785.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1785" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1805" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1805" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1785" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1785.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1785" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1805" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1805" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1785" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1785.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1785" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1805" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1805" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1785" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1785.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1785" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1805" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1805" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1785" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1746.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1746" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1766" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1766" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1746" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1746.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1746" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1766" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1766" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1746" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1746.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1746" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1766" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1766" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1746" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1746.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1746" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1766" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1766" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1746" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1746.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1746" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1766" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1766" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1746" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1707.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1707" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1727" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1727" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1707" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1707.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1707" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1727" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1727" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1707" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1707.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1707" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1727" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1727" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1707" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1707.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1707" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1727" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1727" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1707" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1707.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1707" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1727" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1727" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1707" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1668.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1668" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1688" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1688" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1668" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1668.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1668" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1688" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1688" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1668" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1668.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1668" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1688" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1688" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1668" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1668.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1668" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1688" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1688" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1668" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1668.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1668" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1688" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1688" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1668" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1629.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1629" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1649" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1649" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1629" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1629.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1629" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1649" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1649" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1629" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1629.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1629" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1649" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1649" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1629" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1629.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1629" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1649" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1649" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1629" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1629.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1629" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1649" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1649" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1629" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1590.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1590" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1610" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1610" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1590" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1590.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1590" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1610" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1610" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1590" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1590.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1590" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1610" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1610" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1590" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1590.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1590" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1610" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1610" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1590" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1590.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1590" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1610" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1610" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1590" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1551.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1551" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1571" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1571" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1551" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1551.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1551" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1571" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1571" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1551" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1551.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1551" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1571" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1571" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1551" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1551.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1551" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1571" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1571" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1551" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1551.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1551" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1571" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1571" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1551" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1512.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1512" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1532" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1532" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1512" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1512.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1512" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1532" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1532" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1512" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1512.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1512" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1532" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1532" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1512" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1512.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1512" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1532" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1532" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1512" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1512.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1512" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1532" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1532" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1512" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1473.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1473" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1493" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1493" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1473" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1473.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1473" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1493" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1493" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1473" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1473.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1473" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1493" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1493" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1473" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1473.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1473" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1493" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1493" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1473" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1473.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1473" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1493" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1493" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1473" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1434.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1434" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1454" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1454" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1434" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1434.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1434" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1454" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1454" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1434" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1434.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1434" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1454" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1454" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1434" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1434.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1434" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1454" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1454" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1434" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1434.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1434" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1454" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1454" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1434" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1395.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1395" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1415" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1415" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1395" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1395.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1395" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1415" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1415" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1395" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1395.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1395" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1415" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1415" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1395" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1395.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1395" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1415" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1415" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1395" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1395.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1395" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1415" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1415" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1395" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1356.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1356" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1376" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1376" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1356" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1356.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1356" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1376" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1376" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1356" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1356.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1356" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1376" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1376" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1356" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1356.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1356" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1376" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1376" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1356" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1356.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1356" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1376" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1376" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1356" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1317.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1317" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1337" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1337" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1317" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1317.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1317" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1337" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1337" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1317" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1317.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1317" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1337" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1337" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1317" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1317.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1317" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1337" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1337" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1317" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1317.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1317" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1337" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1337" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1317" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1278.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1278" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1298" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1298" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1278" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1278.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1278" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1298" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1298" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1278" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1278.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1278" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1298" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1298" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1278" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1278.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1278" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1298" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1298" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1278" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1278.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1278" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1298" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1298" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1278" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1239.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1239" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1259" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1259" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1239" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1239.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1239" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1259" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1259" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1239" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1239.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1239" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1259" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1259" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1239" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1239.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1239" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1259" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1259" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1239" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1239.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1239" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1259" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1259" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1239" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1200.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1200" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1220" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1220" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1200" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1200.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1200" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1220" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1220" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1200" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1200.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1200" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1220" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1220" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1200" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1200.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1200" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1220" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1220" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1200" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1200.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1200" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1220" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1220" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1200" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1161.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1161" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1181" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1181" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1161" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1161.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1161" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1181" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1181" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1161" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1161.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1161" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1181" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1181" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1161" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1161.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1161" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1181" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1181" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1161" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1161.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1161" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1181" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1181" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1161" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1122.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1122" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1142" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1142" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1122" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1122.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1122" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1142" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1142" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1122" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1122.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1122" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1142" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1142" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1122" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1122.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1122" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1142" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1142" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1122" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1122.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1122" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1142" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1142" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1122" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1083.5" y="207" style="fill:none;" width="39" height="42"/>
+				<rect x="1083" y="207" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1103" y="209" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1103" y="228" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1083" y="228" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1083.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1083" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1103" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1103" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1083" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1083.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1083" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1103" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1103" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1083" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1083.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1083" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1103" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1103" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1083" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_4_);">
+				<rect x="1083.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1083" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1103" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1103" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1083" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+		</g>
+	</g>
 	
 		<rect x="1107" y="201" style="clip-path:url(#SVGID_2_);fill:#9EE3FF;stroke:#9CE2FF;stroke-width:4;stroke-miterlimit:10;" width="809" height="14"/>
-	<pattern  id="SVGID_3_" xlink:href="#New_Pattern_2" patternTransform="matrix(1.5 0 0 1.5 4057.5 2795)">
-	</pattern>
-	<rect x="1108" y="215" style="opacity:0.6;clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);" width="806" height="176"/>
 	<g style="clip-path:url(#SVGID_2_);">
 		
 			<use xlink:href="#New_Symbol_2_1_"  width="190" height="364.781" id="XMLID_2_" x="-97" y="-183" transform="matrix(1 0 0 -1 1483 208)" style="overflow:visible;"/>
@@ -107,9 +875,996 @@
 		<rect x="5" y="389" style="fill:#F2FCFF;" width="1917" height="691"/>
 	</g>
 	<polygon style="clip-path:url(#SVGID_2_);fill:#F9F900;" points="1059,442.287 -2,436 -2,-1 1109,-1 	"/>
-	<pattern  id="SVGID_4_" xlink:href="#New_Pattern_2" patternTransform="matrix(1.5 0 0 1.5 4057.5 2795)">
-	</pattern>
-	<rect x="4" y="282" style="opacity:0.6;clip-path:url(#SVGID_2_);fill:url(#SVGID_4_);" width="1056" height="152"/>
+	<g style="opacity:0.6;clip-path:url(#SVGID_2_);">
+		<g>
+			<defs>
+				<rect id="SVGID_5_" x="4" y="282" width="1056" height="152"/>
+			</defs>
+			<clipPath id="SVGID_7_">
+				<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1044.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1044" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1064" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1064" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1044" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1044.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1044" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1064" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1064" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1044" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1044.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1044" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1064" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1064" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1044" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1044.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1044" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1064" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1064" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1044" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1044.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="1044" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1064" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1064" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1044" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1005.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="1005" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1025" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1025" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1005" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1005.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="1005" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1025" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1025" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1005" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1005.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="1005" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1025" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1025" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1005" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1005.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="1005" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1025" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1025" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1005" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="1005.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="1005" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="1025" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="1025" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="1005" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="966.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="966" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="986" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="986" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="966" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="966.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="966" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="986" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="986" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="966" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="966.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="966" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="986" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="986" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="966" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="966.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="966" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="986" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="986" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="966" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="966.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="966" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="986" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="986" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="966" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="927.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="927" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="947" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="947" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="927" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="927.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="927" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="947" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="947" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="927" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="927.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="927" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="947" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="947" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="927" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="927.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="927" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="947" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="947" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="927" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="927.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="927" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="947" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="947" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="927" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="888.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="888" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="908" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="908" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="888" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="888.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="888" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="908" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="908" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="888" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="888.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="888" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="908" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="908" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="888" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="888.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="888" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="908" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="908" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="888" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="888.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="888" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="908" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="908" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="888" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="849.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="849" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="869" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="869" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="849" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="849.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="849" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="869" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="869" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="849" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="849.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="849" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="869" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="869" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="849" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="849.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="849" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="869" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="869" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="849" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="849.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="849" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="869" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="869" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="849" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="810.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="810" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="830" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="830" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="810" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="810.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="810" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="830" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="830" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="810" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="810.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="810" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="830" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="830" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="810" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="810.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="810" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="830" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="830" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="810" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="810.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="810" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="830" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="830" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="810" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="771.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="771" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="791" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="791" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="771" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="771.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="771" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="791" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="791" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="771" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="771.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="771" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="791" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="791" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="771" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="771.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="771" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="791" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="791" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="771" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="771.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="771" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="791" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="791" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="771" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="732.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="732" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="752" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="752" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="732" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="732.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="732" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="752" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="752" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="732" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="732.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="732" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="752" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="752" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="732" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="732.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="732" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="752" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="752" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="732" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="732.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="732" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="752" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="752" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="732" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="693.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="693" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="713" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="713" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="693" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="693.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="693" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="713" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="713" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="693" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="693.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="693" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="713" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="713" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="693" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="693.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="693" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="713" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="713" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="693" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="693.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="693" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="713" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="713" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="693" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="654.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="654" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="674" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="674" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="654" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="654.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="654" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="674" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="674" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="654" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="654.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="654" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="674" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="674" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="654" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="654.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="654" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="674" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="674" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="654" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="654.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="654" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="674" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="674" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="654" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="615.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="615" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="635" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="635" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="615" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="615.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="615" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="635" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="635" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="615" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="615.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="615" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="635" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="635" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="615" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="615.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="615" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="635" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="635" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="615" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="615.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="615" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="635" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="635" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="615" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="576.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="576" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="596" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="596" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="576" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="576.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="576" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="596" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="596" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="576" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="576.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="576" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="596" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="596" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="576" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="576.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="576" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="596" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="596" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="576" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="576.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="576" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="596" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="596" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="576" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="537.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="537" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="557" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="557" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="537" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="537.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="537" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="557" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="557" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="537" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="537.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="537" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="557" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="557" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="537" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="537.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="537" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="557" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="557" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="537" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="537.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="537" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="557" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="557" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="537" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="498.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="498" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="518" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="518" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="498" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="498.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="498" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="518" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="518" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="498" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="498.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="498" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="518" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="518" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="498" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="498.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="498" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="518" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="518" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="498" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="498.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="498" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="518" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="518" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="498" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="459.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="459" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="479" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="479" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="459" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="459.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="459" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="479" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="479" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="459" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="459.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="459" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="479" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="479" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="459" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="459.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="459" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="479" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="479" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="459" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="459.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="459" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="479" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="479" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="459" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="420.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="420" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="440" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="440" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="420" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="420.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="420" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="440" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="440" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="420" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="420.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="420" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="440" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="440" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="420" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="420.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="420" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="440" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="440" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="420" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="420.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="420" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="440" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="440" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="420" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="381.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="381" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="401" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="401" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="381" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="381.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="381" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="401" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="401" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="381" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="381.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="381" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="401" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="401" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="381" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="381.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="381" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="401" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="401" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="381" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="381.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="381" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="401" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="401" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="381" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="342.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="342" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="362" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="362" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="342" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="342.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="342" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="362" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="362" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="342" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="342.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="342" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="362" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="362" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="342" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="342.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="342" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="362" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="362" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="342" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="342.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="342" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="362" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="362" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="342" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="303.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="303" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="323" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="323" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="303" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="303.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="303" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="323" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="323" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="303" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="303.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="303" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="323" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="323" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="303" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="303.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="303" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="323" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="323" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="303" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="303.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="303" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="323" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="323" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="303" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="264.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="264" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="284" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="284" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="264" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="264.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="264" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="284" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="284" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="264" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="264.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="264" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="284" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="284" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="264" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="264.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="264" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="284" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="284" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="264" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="264.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="264" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="284" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="284" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="264" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="225.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="225" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="245" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="245" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="225" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="225.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="225" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="245" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="245" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="225" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="225.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="225" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="245" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="245" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="225" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="225.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="225" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="245" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="245" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="225" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="225.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="225" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="245" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="245" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="225" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="186.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="186" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="206" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="206" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="186" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="186.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="186" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="206" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="206" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="186" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="186.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="186" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="206" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="206" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="186" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="186.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="186" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="206" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="206" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="186" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="186.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="186" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="206" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="206" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="186" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="147.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="147" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="167" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="167" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="147" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="147.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="147" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="167" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="167" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="147" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="147.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="147" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="167" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="167" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="147" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="147.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="147" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="167" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="167" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="147" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="147.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="147" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="167" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="167" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="147" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="108.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="108" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="128" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="128" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="108" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="108.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="108" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="128" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="128" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="108" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="108.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="108" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="128" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="128" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="108" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="108.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="108" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="128" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="128" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="108" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="108.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="108" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="128" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="128" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="108" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="69.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="69" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="89" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="89" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="69" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="69.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="69" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="89" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="89" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="69" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="69.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="69" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="89" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="89" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="69" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="69.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="69" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="89" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="89" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="69" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="69.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="69" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="89" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="89" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="69" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="30.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="30" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="50" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="50" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="30" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="30.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="30" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="50" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="50" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="30" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="30.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="30" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="50" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="50" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="30" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="30.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="30" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="50" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="50" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="30" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="30.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="30" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="50" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="50" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="30" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="-8.5" y="249" style="fill:none;" width="39" height="42"/>
+				<rect x="-9" y="249" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="11" y="251" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="11" y="270" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="-9" y="270" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="-8.5" y="291" style="fill:none;" width="39" height="42"/>
+				<rect x="-9" y="291" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="11" y="293" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="11" y="312" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="-9" y="312" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="-8.5" y="333" style="fill:none;" width="39" height="42"/>
+				<rect x="-9" y="333" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="11" y="335" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="11" y="354" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="-9" y="354" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="-8.5" y="375" style="fill:none;" width="39" height="42"/>
+				<rect x="-9" y="375" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="11" y="377" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="11" y="396" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="-9" y="396" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+			<g style="clip-path:url(#SVGID_7_);">
+				<rect x="-8.5" y="417" style="fill:none;" width="39" height="42"/>
+				<rect x="-9" y="417" style="fill:#44484F;" width="20" height="21"/>
+				<rect x="11" y="419" style="fill:#FFFFFF;" width="19" height="19"/>
+				<rect x="11" y="438" style="fill:#44484F;" width="19" height="21"/>
+				<rect x="-9" y="438" style="fill:#FFFFFF;" width="20" height="20"/>
+			</g>
+		</g>
+	</g>
 	<polygon style="opacity:0.1;clip-path:url(#SVGID_2_);" points="3.864,542 962.666,522.23 1021.7,460.416 -2,453.18 	"/>
 	<g style="clip-path:url(#SVGID_2_);">
 		<g>
@@ -133,12 +1888,12 @@
 				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 			</filter>
 		</defs>
-		<mask maskUnits="userSpaceOnUse" x="118.98" y="669.934" width="1889.306" height="329.706" id="SVGID_5_">
+		<mask maskUnits="userSpaceOnUse" x="118.98" y="669.934" width="1889.306" height="329.706" id="SVGID_8_">
 			<g style="filter:url(#Adobe_OpacityMaskFilter);">
 				<polygon style="fill:#FFFFFF;" points="1080.269,995.623 123.564,995.826 427.019,609.73 1217.031,609.73 				"/>
 			</g>
 		</mask>
-		<g style="opacity:0.2;mask:url(#SVGID_5_);">
+		<g style="opacity:0.2;mask:url(#SVGID_8_);">
 			<g>
 				<g>
 					<defs>
@@ -146,10 +1901,10 @@
 							c70.931-110.815,158.764-208.151,235.971-314.309c534.262,0.033,1068.494,6.56,1602.755,6.625
 							C1960.12,790.702,1960.12,893.263,1960.12,995.824z"/>
 					</defs>
-					<clipPath id="SVGID_7_">
+					<clipPath id="SVGID_9_">
 						<use xlink:href="#SVGID_6_"  style="overflow:visible;"/>
 					</clipPath>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1881.863,676.89c42.141,0.042,84.281,0.044,126.423,0.044
 							c0.005,33.647-0.03,67.295-0.042,100.942c-42.241-0.091-84.482-0.188-126.724-0.299
 							C1881.641,744.015,1881.758,710.452,1881.863,676.89z"/>
@@ -160,7 +1915,7 @@
 							c-0.001,18.39-0.001,36.779-0.002,55.169c-27.593-0.064-55.187-0.126-82.78-0.203
 							C1881.59,758.377,1881.655,740.036,1881.716,721.696z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1881.521,777.576c42.241,0.119,84.482,0.21,126.724,0.301
 							c-0.012,37.407-0.012,74.814-0.013,112.222c-42.387-0.248-84.774-0.5-127.161-0.762
 							C1881.232,852.083,1881.384,814.83,1881.521,777.576z"/>
@@ -170,7 +1925,7 @@
 						<path style="fill:#FFFFFF;" d="M1881.308,833.415c27.665,0.135,55.33,0.279,82.995,0.399c0.002,18.388,0,36.776,0,55.164
 							c-27.743-0.156-55.485-0.326-83.229-0.503C1881.152,870.122,1881.23,851.769,1881.308,833.415z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1881.07,889.337c42.387,0.262,84.774,0.514,127.161,0.762
 							c0.011,36.247,0.036,72.495,0.055,108.741c-42.589,0-85.177,0.016-127.765,0.032
 							C1880.728,962.36,1880.906,925.849,1881.07,889.337z"/>
@@ -181,7 +1936,7 @@
 							c0.001,17.518,0.002,35.035,0.003,52.553c-27.928,0.003-55.856,0.019-83.784,0.028
 							C1880.621,980.78,1880.715,963.123,1880.807,945.466z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1717.443,676.554c54.807,0.167,109.613,0.281,164.42,0.336
 							c-0.105,33.562-0.223,67.125-0.343,100.688c-55.962-0.169-111.923-0.361-167.884-0.602
 							C1714.932,743.503,1716.197,710.028,1717.443,676.554z"/>
@@ -198,7 +1953,7 @@
 							c-0.301,18.292-0.603,36.584-0.907,54.876c-27.662-0.098-55.324-0.206-82.986-0.324
 							C1714.377,757.873,1715.076,739.624,1715.769,721.375z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1713.637,776.977c55.961,0.231,111.922,0.431,167.884,0.6
 							c-0.137,37.254-0.288,74.507-0.45,111.761c-57.297-0.362-114.593-0.733-171.889-1.141
 							C1710.695,851.124,1712.19,814.052,1713.637,776.977z"/>
@@ -215,7 +1970,7 @@
 							c-0.326,18.321-0.657,36.644-0.992,54.965c-28.489-0.186-56.979-0.388-85.468-0.582
 							C1709.967,869.041,1710.709,850.746,1711.447,832.451z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1709.182,888.196c57.296,0.407,114.592,0.778,171.889,1.141
 							c-0.164,36.512-0.343,73.023-0.549,109.535c-58.678,0.024-117.354,0.049-176.031,0.073
 							C1706.076,962.03,1707.653,925.114,1709.182,888.196z"/>
@@ -232,7 +1987,7 @@
 							c-0.352,17.809-0.709,35.617-1.07,53.425c-29.34,0.011-58.679,0.021-88.018,0.032
 							C1705.289,980.536,1706.058,962.572,1706.822,944.607z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1562.723,675.945c51.573,0.246,103.146,0.452,154.721,0.607
 							c-1.246,33.476-2.508,66.95-3.808,100.423c-53.751-0.231-107.502-0.502-161.253-0.785
 							C1555.899,742.782,1559.342,709.367,1562.723,675.945z"/>
@@ -248,7 +2003,7 @@
 							c-1.223,18.213-2.459,36.424-3.708,54.635c-26.625-0.127-53.251-0.266-79.876-0.411
 							C1554.388,757.168,1556.28,738.992,1558.158,720.814z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1552.383,776.189c53.751,0.296,107.502,0.555,161.253,0.787
 							c-1.446,37.075-2.934,74.148-4.455,111.22c-56.223-0.396-112.444-0.811-168.667-1.229
 							C1544.502,850.045,1548.479,813.121,1552.383,776.189z"/>
@@ -265,7 +2020,7 @@
 							c-1.291,18.272-2.582,36.545-3.888,54.816c-27.984-0.211-55.97-0.415-83.954-0.628
 							C1542.581,867.853,1544.553,849.602,1546.513,831.35z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1540.514,886.967c56.223,0.419,112.444,0.833,168.667,1.229
 							c-1.528,36.918-3.099,73.834-4.693,110.749c-58.708,0.025-117.415,0.051-176.123,0.076
 							C1532.392,961.668,1536.466,924.318,1540.514,886.967z"/>
@@ -282,7 +2037,7 @@
 							c-1.318,18.124-2.635,36.249-3.958,54.373c-29.352,0.011-58.703,0.021-88.055,0.032
 							C1530.383,980.277,1532.373,961.991,1534.359,943.705z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1415.132,675.137c49.196,0.301,98.394,0.573,147.591,0.809
 							c-3.381,33.422-6.823,66.837-10.34,100.245c-52.125-0.287-104.251-0.595-156.376-0.925
 							C1402.511,741.913,1408.896,708.54,1415.132,675.137z"/>
@@ -299,7 +2054,7 @@
 							c-2.629,18.146-5.287,36.288-7.965,54.427c-25.883-0.149-51.765-0.31-77.647-0.473
 							C1399.701,756.315,1403.208,738.205,1406.673,720.086z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1396.007,775.268c52.125,0.326,104.251,0.65,156.376,0.922
 							c-3.904,36.932-7.881,73.855-11.869,110.777c-55.432-0.427-110.862-0.854-166.294-1.297
 							C1381.482,848.869,1388.797,812.078,1396.007,775.268z"/>
@@ -316,7 +2071,7 @@
 							c-2.738,18.236-5.488,36.47-8.232,54.705c-27.621-0.218-55.243-0.433-82.864-0.656
 							C1377.99,866.587,1381.596,848.367,1385.203,830.148z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1374.22,885.67c55.432,0.443,110.862,0.87,166.294,1.297
 							c-4.048,37.352-8.122,74.701-12.149,112.055c-58.73,0.025-117.462,0.052-176.192,0.078
 							C1359.376,961.261,1366.766,923.459,1374.22,885.67z"/>
@@ -333,7 +2088,7 @@
 							c-2.758,18.449-5.503,36.901-8.229,55.355c-29.361,0.012-58.722,0.022-88.082,0.033
 							C1355.81,980.005,1359.398,961.386,1363.016,942.772z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1272.1,674.2c47.678,0.326,95.354,0.64,143.032,0.937
 							c-6.236,33.403-12.621,66.776-19.125,100.129c-51.087-0.316-102.173-0.666-153.259-1.01
 							C1252.742,740.964,1262.557,707.624,1272.1,674.2z"/>
@@ -350,7 +2105,7 @@
 							c-4.364,18.095-8.78,36.177-13.232,54.251c-25.435-0.168-50.87-0.339-76.305-0.51
 							C1248.418,755.375,1253.793,737.32,1259.106,719.246z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1242.748,774.258c51.086,0.348,102.173,0.689,153.259,1.01
 							c-7.21,36.811-14.524,73.602-21.787,110.402c-54.928-0.436-109.854-0.881-164.782-1.34
 							C1220.49,847.624,1231.676,810.958,1242.748,774.258z"/>
@@ -367,7 +2122,7 @@
 							c-4.536,18.206-9.073,36.411-13.589,54.622c-27.403-0.221-54.807-0.45-82.21-0.676
 							C1215.177,865.263,1220.687,847.07,1226.209,828.881z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1209.438,884.33c54.928,0.459,109.854,0.904,164.782,1.34
 							c-7.454,37.789-14.844,75.591-22.048,113.43c-58.745,0.026-117.49,0.052-176.235,0.078
 							C1186.735,960.787,1197.985,922.53,1209.438,884.33z"/>
@@ -384,7 +2139,7 @@
 							c-4.539,18.776-9.041,37.562-13.465,56.366c-29.365,0.012-58.731,0.022-88.098,0.034
 							C1181.405,979.709,1186.865,960.756,1192.383,941.818z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1131.057,673.208c47.015,0.331,94.029,0.671,141.043,0.992
 							c-9.543,33.424-19.357,66.764-29.352,100.056c-50.634-0.346-101.269-0.703-151.902-1.049
 							C1104.562,739.996,1118.004,706.686,1131.057,673.208z"/>
@@ -401,7 +2156,7 @@
 							c-6.288,18.055-12.653,36.08-19.067,54.09c-25.281-0.177-50.562-0.35-75.843-0.526
 							C1098.632,754.402,1106.004,736.406,1113.248,718.359z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1090.846,773.209c50.634,0.354,101.269,0.704,151.902,1.049
 							c-11.072,36.7-22.258,73.366-33.311,110.072c-54.706-0.449-109.412-0.91-164.118-1.355
 							C1060.351,846.326,1075.674,809.799,1090.846,773.209z"/>
@@ -418,7 +2173,7 @@
 							c-6.534,18.174-13.047,36.356-19.516,54.554c-27.328-0.226-54.655-0.456-81.983-0.682
 							C1053.125,863.905,1060.663,845.739,1068.225,827.584z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M1045.319,882.975c54.706,0.445,109.412,0.906,164.118,1.355
 							c-11.452,38.2-22.702,76.457-33.501,114.848c-58.751,0.026-117.502,0.053-176.254,0.08
 							C1014.252,960.243,1029.588,921.533,1045.319,882.975z"/>
@@ -435,7 +2190,7 @@
 							c-6.519,19.097-12.969,38.215-19.238,57.395c-29.368,0.011-58.736,0.022-88.104,0.034
 							C1007.099,979.398,1014.525,960.107,1022.066,940.857z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M989.432,672.231c47.209,0.312,94.417,0.637,141.625,0.977
 							c-13.053,33.478-26.494,66.788-40.211,99.999c-50.766-0.355-101.531-0.696-152.297-1.037
 							C955.921,739.06,972.943,705.791,989.432,672.231z"/>
@@ -452,7 +2207,7 @@
 							c-8.217,18.033-16.582,35.999-25.02,53.93c-25.422-0.169-50.843-0.346-76.265-0.512
 							C948.398,753.444,957.7,735.495,966.891,717.486z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M938.548,772.174c50.766,0.329,101.532,0.68,152.297,1.035
 							c-15.172,36.59-30.495,73.117-45.526,109.766c-54.771-0.467-109.542-0.906-164.312-1.354
 							C899.95,845.013,919.333,808.638,938.548,772.174z"/>
@@ -469,7 +2224,7 @@
 							c-8.576,18.138-17.107,36.296-25.562,54.491c-27.396-0.229-54.792-0.45-82.189-0.676
 							C890.872,862.557,900.384,844.413,909.945,826.294z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M881.007,881.62c54.771,0.448,109.542,0.888,164.312,1.354
 							c-15.731,38.559-31.067,77.269-45.637,116.283c-58.749,0.026-117.498,0.053-176.247,0.079
 							C841.664,959.627,861.043,920.482,881.007,881.62z"/>
@@ -486,7 +2241,7 @@
 							c-8.543,19.404-16.964,38.859-25.132,58.426c-29.366,0.012-58.732,0.023-88.098,0.034
 							C832.746,979.07,842.122,959.449,851.655,939.899z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M844.653,671.345c48.259,0.271,96.519,0.571,144.777,0.887
 							c-16.49,33.56-33.512,66.828-50.883,99.939c-51.484-0.345-102.968-0.674-154.453-0.978
 							C804.79,738.208,825.046,704.989,844.653,671.345z"/>
@@ -503,7 +2258,7 @@
 							c-10.094,17.993-20.333,35.901-30.653,53.766c-25.855-0.165-51.71-0.324-77.565-0.476
 							C795.798,752.543,806.889,734.666,817.824,716.688z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M784.093,771.197c51.485,0.304,102.969,0.642,154.454,0.975
 							c-19.217,36.464-38.595,72.842-57.542,109.447c-55.12-0.447-110.239-0.891-165.359-1.321
 							C738.124,843.719,761.203,807.52,784.093,771.197z"/>
@@ -520,7 +2275,7 @@
 							c-10.502,18.098-20.951,36.225-31.283,54.42c-27.608-0.227-55.217-0.439-82.825-0.657
 							C727.366,861.234,738.679,843.122,750.063,825.052z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M715.646,880.298c55.12,0.431,110.24,0.874,165.359,1.321
 							c-19.961,38.864-39.334,78.012-57.572,117.718c-58.739,0.026-117.478,0.053-176.217,0.078
 							C668.779,958.991,691.815,919.422,715.646,880.298z"/>
@@ -537,7 +2292,7 @@
 							c-10.475,19.695-20.765,39.48-30.716,59.445c-29.361,0.012-58.722,0.022-88.083,0.033
 							C658.253,978.736,669.398,958.791,680.75,938.952z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M694.156,670.616c50.166,0.208,100.332,0.445,150.497,0.729
 							c-19.607,33.645-39.863,66.863-60.559,99.849c-52.788-0.311-105.577-0.604-158.365-0.867
 							C649.137,737.482,672.024,704.334,694.156,670.616z"/>
@@ -554,7 +2309,7 @@
 							c-11.695,17.957-23.558,35.797-35.518,53.578c-26.583-0.143-53.167-0.283-79.75-0.416
 							C638.956,751.768,651.49,733.966,663.842,716.03z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M625.729,770.328c52.789,0.264,105.577,0.543,158.365,0.869
 							c-22.89,36.322-45.969,72.521-68.448,109.101c-55.754-0.436-111.508-0.86-167.262-1.27
 							C573.742,842.492,599.84,806.488,625.729,770.328z"/>
@@ -571,7 +2326,7 @@
 							c-12.182,18.042-24.283,36.133-36.241,54.323c-27.963-0.213-55.927-0.417-83.891-0.628
 							C561.615,859.971,574.4,841.902,587.276,823.892z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M548.383,879.028c55.754,0.409,111.508,0.834,167.262,1.27
 							c-23.83,39.124-46.866,78.693-68.43,119.117c-58.722,0.027-117.443,0.052-176.165,0.077
 							C495.308,958.359,521.344,918.378,548.383,879.028z"/>
@@ -588,7 +2343,7 @@
 							c-12.161,19.973-24.072,40.085-35.569,60.448c-29.352,0.011-58.705,0.021-88.057,0.033
 							C483.497,978.41,496.085,958.14,508.95,938.031z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M535.365,670.123c52.931,0.122,105.861,0.28,158.791,0.493
 							c-22.131,33.718-45.019,66.866-68.427,99.71c-54.678-0.266-109.357-0.509-164.036-0.707
 							C486.931,736.933,511.576,703.879,535.365,670.123z"/>
@@ -605,7 +2360,7 @@
 							c-12.89,17.911-25.972,35.674-39.17,53.358c-27.606-0.121-55.212-0.221-82.818-0.33
 							C475.943,751.165,489.439,733.449,502.732,715.571z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M461.693,769.621c54.679,0.198,109.357,0.441,164.035,0.707
 							c-25.888,36.16-51.986,72.164-77.345,108.7c-56.672-0.42-113.345-0.812-170.018-1.194
 							C405.637,841.373,433.773,805.585,461.693,769.621z"/>
@@ -622,7 +2377,7 @@
 							c-13.451,17.978-26.802,36.021-39.985,54.196c-28.462-0.199-56.924-0.396-85.386-0.586
 							C392.611,858.802,406.389,840.786,420.275,822.847z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M378.365,877.834c56.673,0.383,113.346,0.774,170.018,1.194
 							c-27.039,39.35-53.076,79.331-77.333,120.464c-58.695,0.025-117.391,0.051-176.086,0.075
 							C321.028,957.793,349.091,917.411,378.365,877.834z"/>
@@ -639,7 +2394,7 @@
 							c-13.45,20.245-26.6,40.671-39.267,61.417c-29.34,0.01-58.681,0.021-88.021,0.031
 							C308.358,978.102,321.943,957.526,335.849,937.15z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M365.712,669.934c56.551,0.005,113.102,0.067,169.653,0.189
 							c-23.789,33.756-48.434,66.81-73.671,99.496c-57.154-0.211-114.309-0.38-171.463-0.499
 							C316.151,736.605,341.403,703.672,365.712,669.934z"/>
@@ -656,7 +2411,7 @@
 							c-13.536,17.844-27.286,35.513-41.167,53.089c-28.922-0.081-57.843-0.152-86.765-0.219
 							C304.847,750.787,318.677,733.174,332.286,715.375z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M290.229,769.12c57.155,0.127,114.31,0.29,171.464,0.501
 							c-27.92,35.964-56.057,71.752-83.328,108.213c-57.877-0.374-115.754-0.75-173.631-1.091
 							C232.67,840.419,261.57,804.871,290.229,769.12z"/>
@@ -673,7 +2428,7 @@
 							c-14.165,17.9-28.214,35.883-42.072,54.022c-29.105-0.188-58.21-0.363-87.315-0.53
 							C219.342,857.761,233.487,839.816,247.754,821.959z"/>
 					</g>
-					<g style="clip-path:url(#SVGID_7_);">
+					<g style="clip-path:url(#SVGID_9_);">
 						<path style="fill:none;" d="M204.734,876.743c57.877,0.341,115.754,0.717,173.631,1.091
 							c-29.274,39.577-57.337,79.959-83.401,121.733c-58.662,0.024-117.323,0.044-175.984,0.072
 							C145.619,957.312,174.492,916.561,204.734,876.743z"/>
@@ -697,9 +2452,114 @@
 	<polygon style="clip-path:url(#SVGID_2_);fill:#E6E600;" points="1059,28.219 1109,-12 1109,390 1059,442.287 	"/>
 	<polyline style="clip-path:url(#SVGID_2_);fill:none;stroke:#E6E600;stroke-width:17;stroke-miterlimit:10;" points="1103,208 
 		1063,284.5 4,284.5 	"/>
-	<pattern  id="SVGID_8_" xlink:href="#New_Pattern_2" patternTransform="matrix(1.35 0 0 1.35 2863.2988 1967.1494)">
-	</pattern>
-	<polygon style="opacity:0.6;clip-path:url(#SVGID_2_);fill:url(#SVGID_8_);" points="1059,282 1059,442 1110,391 1110,215 	"/>
+	<g style="opacity:0.6;clip-path:url(#SVGID_2_);">
+		<g>
+			<defs>
+				<polygon id="SVGID_10_" points="1059,282 1059,442 1110,391 1110,215 				"/>
+			</defs>
+			<clipPath id="SVGID_11_">
+				<use xlink:href="#SVGID_10_"  style="overflow:visible;"/>
+			</clipPath>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1083.599" y="181.35" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1084" y="181" style="fill:#44484F;" width="17" height="19"/>
+				<rect x="1101" y="183" style="fill:#FFFFFF;" width="18" height="17"/>
+				<rect x="1101" y="200" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1084" y="200" style="fill:#FFFFFF;" width="17" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1083.599" y="219.149" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1084" y="219" style="fill:#44484F;" width="17" height="19"/>
+				<rect x="1101" y="220" style="fill:#FFFFFF;" width="18" height="18"/>
+				<rect x="1101" y="238" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1084" y="238" style="fill:#FFFFFF;" width="17" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1083.599" y="256.949" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1084" y="257" style="fill:#44484F;" width="17" height="19"/>
+				<rect x="1101" y="258" style="fill:#FFFFFF;" width="18" height="18"/>
+				<rect x="1101" y="276" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1084" y="276" style="fill:#FFFFFF;" width="17" height="17"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1083.599" y="294.749" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1084" y="295" style="fill:#44484F;" width="17" height="19"/>
+				<rect x="1101" y="296" style="fill:#FFFFFF;" width="18" height="18"/>
+				<rect x="1101" y="314" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1084" y="314" style="fill:#FFFFFF;" width="17" height="17"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1083.599" y="332.55" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1084" y="333" style="fill:#44484F;" width="17" height="18"/>
+				<rect x="1101" y="334" style="fill:#FFFFFF;" width="18" height="17"/>
+				<rect x="1101" y="351" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1084" y="351" style="fill:#FFFFFF;" width="17" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1083.599" y="370.35" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1084" y="370" style="fill:#44484F;" width="17" height="19"/>
+				<rect x="1101" y="372" style="fill:#FFFFFF;" width="18" height="17"/>
+				<rect x="1101" y="389" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1084" y="389" style="fill:#FFFFFF;" width="17" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1083.599" y="408.149" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1084" y="408" style="fill:#44484F;" width="17" height="19"/>
+				<rect x="1101" y="409" style="fill:#FFFFFF;" width="18" height="18"/>
+				<rect x="1101" y="427" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1084" y="427" style="fill:#FFFFFF;" width="17" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1048.499" y="181.35" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1048" y="181" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1066" y="183" style="fill:#FFFFFF;" width="18" height="17"/>
+				<rect x="1066" y="200" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1048" y="200" style="fill:#FFFFFF;" width="18" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1048.499" y="219.149" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1048" y="219" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1066" y="220" style="fill:#FFFFFF;" width="18" height="18"/>
+				<rect x="1066" y="238" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1048" y="238" style="fill:#FFFFFF;" width="18" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1048.499" y="256.949" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1048" y="257" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1066" y="258" style="fill:#FFFFFF;" width="18" height="18"/>
+				<rect x="1066" y="276" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1048" y="276" style="fill:#FFFFFF;" width="18" height="17"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1048.499" y="294.749" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1048" y="295" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1066" y="296" style="fill:#FFFFFF;" width="18" height="18"/>
+				<rect x="1066" y="314" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1048" y="314" style="fill:#FFFFFF;" width="18" height="17"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1048.499" y="332.55" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1048" y="333" style="fill:#44484F;" width="18" height="18"/>
+				<rect x="1066" y="334" style="fill:#FFFFFF;" width="18" height="17"/>
+				<rect x="1066" y="351" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1048" y="351" style="fill:#FFFFFF;" width="18" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1048.499" y="370.35" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1048" y="370" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1066" y="372" style="fill:#FFFFFF;" width="18" height="17"/>
+				<rect x="1066" y="389" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1048" y="389" style="fill:#FFFFFF;" width="18" height="18"/>
+			</g>
+			<g style="clip-path:url(#SVGID_11_);">
+				<rect x="1048.499" y="408.149" style="fill:none;" width="35.1" height="37.8"/>
+				<rect x="1048" y="408" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1066" y="409" style="fill:#FFFFFF;" width="18" height="18"/>
+				<rect x="1066" y="427" style="fill:#44484F;" width="18" height="19"/>
+				<rect x="1048" y="427" style="fill:#FFFFFF;" width="18" height="18"/>
+			</g>
+		</g>
+	</g>
 	<g style="clip-path:url(#SVGID_2_);">
 		<polygon style="fill:#72BFD6;stroke:#72BFD6;stroke-width:4;stroke-miterlimit:10;" points="1286,212 1117,212 1278,398 1286,385 
 					"/>
@@ -861,37 +2721,37 @@
 			<line style="fill:none;stroke:#FFABB9;stroke-width:4;stroke-miterlimit:10;" x1="1672.602" y1="502.971" x2="1690.487" y2="568.008"/>
 		<g style="opacity:0.2;">
 			
-				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD29.png"  transform="matrix(1 0 0 1 1279 386)">
+				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD25.png"  transform="matrix(1 0 0 1 1279 386)">
 			</image>
 		</g>
 		<g style="opacity:0.2;">
 			
-				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD28.png"  transform="matrix(1 0 0 1 1461 386)">
+				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD26.png"  transform="matrix(1 0 0 1 1461 386)">
 			</image>
 		</g>
 		<g style="opacity:0.2;">
 			
-				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD27.png"  transform="matrix(1 0 0 1 1643 385)">
+				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD23.png"  transform="matrix(1 0 0 1 1643 385)">
 			</image>
 		</g>
 		<g style="opacity:0.1;">
 			
-				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD36.png"  transform="matrix(1 0 0 1 1643 385)">
+				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD3C.png"  transform="matrix(1 0 0 1 1643 385)">
 			</image>
 		</g>
 		<g style="opacity:0.1;">
 			
-				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD39.png"  transform="matrix(1 0 0 1 1461 385)">
+				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD21.png"  transform="matrix(1 0 0 1 1461 385)">
 			</image>
 		</g>
 		<g style="opacity:0.1;">
 			
-				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD38.png"  transform="matrix(1 0 0 1 1279 386)">
+				<image style="overflow:visible;" width="240" height="151" xlink:href="DE683761D209DD22.png"  transform="matrix(1 0 0 1 1279 386)">
 			</image>
 		</g>
 		<g style="opacity:0.2;">
 			
-				<image style="overflow:visible;" width="685" height="97" xlink:href="DE683761D209DD3F.png"  transform="matrix(1 0 0 1 1234 540)">
+				<image style="overflow:visible;" width="685" height="97" xlink:href="DE683761D209DD20.png"  transform="matrix(1 0 0 1 1234 540)">
 			</image>
 		</g>
 	</g>
@@ -920,7 +2780,7 @@
 		</g>
 		<g>
 			
-				<image style="overflow:visible;" width="504" height="98" xlink:href="DE683761D209DD3E.png"  transform="matrix(1 0 0 1 490 308)">
+				<image style="overflow:visible;" width="504" height="98" xlink:href="DE683761D209DD2C.png"  transform="matrix(1 0 0 1 490 308)">
 			</image>
 		</g>
 		<rect x="-11" y="419" style="fill:#E0F8FF;" width="932" height="39"/>
@@ -951,7 +2811,7 @@
 		</g>
 		<g>
 			
-				<image style="overflow:visible;" width="569" height="96" xlink:href="251001235B6CF787.png"  transform="matrix(1 0 0 1 571 -136)">
+				<image style="overflow:visible;" width="569" height="96" xlink:href="251001235B6CF79C.png"  transform="matrix(1 0 0 1 571 -136)">
 			</image>
 		</g>
 	</g>
@@ -1133,7 +2993,7 @@
 			<g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.75;" width="72" height="74" xlink:href="251001235B6CF783.png"  transform="matrix(1 0 0 1 87 87)">
+						<image style="overflow:visible;opacity:0.75;" width="72" height="74" xlink:href="251001235B6CF799.png"  transform="matrix(1 0 0 1 87 87)">
 					</image>
 					<g>
 						<path style="fill:none;stroke:#FF6EC9;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
@@ -1144,7 +3004,7 @@
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.75;" width="70" height="70" xlink:href="251001235B6CF79F.png"  transform="matrix(1 0 0 1 131 80)">
+						<image style="overflow:visible;opacity:0.75;" width="70" height="70" xlink:href="251001235B6CF79A.png"  transform="matrix(1 0 0 1 131 80)">
 					</image>
 					<g>
 						<path style="fill:none;stroke:#FF6EC9;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
@@ -1154,7 +3014,7 @@
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.75;" width="70" height="70" xlink:href="251001235B6CF79D.png"  transform="matrix(1 0 0 1 177 70)">
+						<image style="overflow:visible;opacity:0.75;" width="70" height="70" xlink:href="251001235B6CF79B.png"  transform="matrix(1 0 0 1 177 70)">
 					</image>
 					<g>
 						<path style="fill:none;stroke:#FF6EC9;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
@@ -1164,7 +3024,7 @@
 				</g>
 				<g>
 					
-						<image style="overflow:visible;opacity:0.75;" width="62" height="69" xlink:href="251001235B6CF784.png"  transform="matrix(1 0 0 1 222 61)">
+						<image style="overflow:visible;opacity:0.75;" width="62" height="69" xlink:href="251001235B6CF785.png"  transform="matrix(1 0 0 1 222 61)">
 					</image>
 					<g>
 						<path style="fill:none;stroke:#FF6EC9;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
