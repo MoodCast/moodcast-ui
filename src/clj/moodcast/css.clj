@@ -12,9 +12,17 @@
    {:width (px 200)
     :height (px 320)}
    [:.part.sharkman.mask {:left (px 48)
-                          :top (px -370)}]
+                          :top (px -370)
+                          :z-index 30}]
    [:.part.sharkman.mask.normal {:left (px 58)
                                  :top (px -370)}]
+   [:.part.sharkman.face {:position :relative
+                          :left (px 52)
+                          :top (px -440)
+                          :z-index 20}
+    [:img {:width (px 64)
+           :height (px 64)
+           :border [[(px 1) :solid :red]]}]]
    [:.part {:position :relative
             :left (px 0)
             :top (px 0)
