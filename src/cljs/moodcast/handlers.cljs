@@ -48,7 +48,7 @@
   (case id
     :macroz :sharkman
     :ile :ironman
-    (rand-nth [:sharkman :ironman])))
+    (rand-nth [:sharkman :ironman :catwoman :nahkhiirmees :robin :spiderman])))
 
 (re-frame/register-handler
  :state-change

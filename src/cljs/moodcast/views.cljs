@@ -94,7 +94,7 @@
 
 (defn random-person []
   (let [id (keyword (str "p" (rand-int 1000000)))
-        avatar (rand-nth [:ironman :sharkman])
+        avatar (rand-nth [:ironman :sharkman :catwoman :nahkhiirmees :robin :spiderman])
         state (if (< (rand 0.5)) :normal :happy)]
     (println id avatar state)
     (re-frame/dispatch [:avatar-change id avatar])

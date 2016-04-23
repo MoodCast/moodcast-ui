@@ -28,45 +28,18 @@
   [:.avatar
    {:width (px 200)
     :height (px 320)}
-   [:.part.sharkman {:left (px -65)
-                     :top (px -310)}]
-   [:.part.sharkman.mask.happy {:left (px (- 48 65))
-                                :top (px (- -438 310))}]
-   [:.part.sharkman.mask.normal {:left (px (- 38 65))
-                                 :top (px (- -370 310))}]
-   [:.part.sharkman.body.normal {:left (px -85)
-                                :top (px -310)}]
-   [:.part.sharkman.face {:position :relative}
     [:img {:width (px 64)
            :height (px 64)
-           :border [[(px 1) :solid :red]]}]]
-   [:.part.sharkman.face.happy {:left (px (- 52 65))
-                                :top (px (- -320 310))}]
-   [:.part.sharkman.face.normal {:left (px (- 41 65))
-                                 :top (px (- -320 310))}]
-
-   [:.part.ironman {:left (px -55)
-                    :top (px -350)}]
-   [:.part.ironman.mask {}]
-   [:.part.ironman.mask.happy {:left (px (- 52 85))
-                               :top (px (- -435 350))}]
-   [:.part.ironman.mask.normal {:left (px (- 18 55))
-                                :top (px (- -370 350))}]
-   [:.part.ironman.body.happy {:left (px -85)
-                               :top (px -350)}]
-   [:.part.ironman.face [:img {:width (px 64)
-                               :height (px 64)
-                               :border [[(px 1) :solid :red]]}]]
-   [:.part.ironman.face.happy {:left (px (- 60 85))
-                               :top (px (- -350 350))}]
-   [:.part.ironman.face.normal {:left (px (- 30 55))
-                                :top (px (- -450 350))}]
-   [:.part.ironman.face {:position :relative}]
-
-   [:.part {:position :relative
-            :left (px 0)
-            :top (px 0)
-            :width (em 2)}]
+           :border [[(px 1) :solid :red]]}]
+   [:.part.body {:position :relative
+                 :left (px -100)
+                 :top (px -330)}]
+   [:.part.mask {:position :relative
+                 :left (px -43)
+                 :top (px (- -450 330))}]
+   [:.part.face {:position :relative
+                 :left (px -24)
+                 :top (px (- -320 330))}]
    [:.name {:color "#eee"
             :text-shadow "-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black"
             :font-weight :bold
