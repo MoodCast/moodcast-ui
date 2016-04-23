@@ -92,7 +92,19 @@ var Slack = function(cb) {
   }
 
   function parseForEmojis(text) {
+    // Simple style smilies to be mapped into emojis
+    var smilies = {
+      ':)': ':simple_smile:',
+      ':(': ':disappointed:',
+      ':D': ':smile:'
+    }
+
     var TEST_REGEX = /\:([a-z0-9_+-]+)(?:\[((?:[^\]]|\][^:])*\]?)\])?\:/g
+    // Replace old smilies into emojis
+    text = text.replace(/[:)(D]+/g, function(match) {
+      return smilies[match] || match
+    });
+
     return text.match(TEST_REGEX);
   }
 
