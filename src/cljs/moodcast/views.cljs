@@ -61,7 +61,6 @@
         (html-div svg-string)))))
 
 (defn person-view [person]
-  (println person)
   [avatar->svg (:avatar person) (:state person)])
 
 (defn home-panel []
