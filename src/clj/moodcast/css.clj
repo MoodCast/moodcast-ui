@@ -8,7 +8,10 @@
           :padding (em 0)
           :margin (em 1)
           :color "#eee"}]
-  [:.brand {:z-index 1}]
+  [:.brand {:font-size (em 5)
+            :font-variant :small-caps
+            :text-shadow [[(px 5) (px 5) (px 5) :black]]
+            :z-index 1}]
   [:.controls {:z-index 100}]
   [:.background {:position :absolute
                  :left (px 0)
