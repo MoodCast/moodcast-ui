@@ -61,7 +61,7 @@
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       [:div.people]])))
+       [:div.people "hello"]])))
 
 
 
