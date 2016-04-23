@@ -61,14 +61,14 @@
             #js{:__html content}}]
      content)])
 
-(defn avatar->svg [id state position face]
+(defn avatar->svg [person-id id state position face]
   (let [avatar (re-frame/subscribe [:avatar id])]
-    (fn [id state position]
+    (fn [person-id id state position]
       (let [body-string (get-in @avatar [:body state])
             face-view [:img {:src face}]
             mask-string (get-in @avatar [:mask state])
             [x y] position]
-        (into [:div.avatar {:style {:position :relative :left x :top y}}]
+        (into [:div.avatar {:id person-id :style {:position :relative :left x :top y}}]
               [[avatar-part-div [id :body state] body-string]
                [avatar-part-div [id :mask state] mask-string]
                [avatar-part-div [id :face state] face-view]
@@ -84,14 +84,15 @@
 (defn person-view [person]
   (println "VIEW" person)
   (if (:avatar person)
-    [avatar->svg (:avatar person) (:state person) (:position person) (:face person)]
+    [avatar->svg (:id person) (:avatar person) (:state person) (:position person) (:face person)]
     [:span]))
 
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       [:div.controls [:button {:on-click #(re-frame/dispatch [:state-change (rand-int 1000) (if (< (rand) 0.5) :normal :happy)])} "test"]]
+       [:div.controls [:button {:on-click #(re-frame/dispatch [:state-change :ile (if (< (rand) 0.5) :normal :happy)])} "test"]]
+       [:div.middle "M"]
        [background :disco]
        (into [:div.people] (map (fn [p] [person-view p]) @people))
        ])))

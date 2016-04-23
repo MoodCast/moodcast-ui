@@ -45,18 +45,14 @@
    db))
 
 (re-frame/register-handler
- :person
- (fn [db [_ p]]
-   (assoc-in db [:people (:id p)] p)))
-
-(re-frame/register-handler
  :state-change
  (fn [db [_ id state]]
    (let [person (get-in db [:people id])]
-     (println "PERSON" id)
-     (if (not person)
-       (update-in db [:people id] (fn [_] {:id id :avatar :sharkman :state state :position [(+ 300 (rand-int 300)) (- 480 (rand-int 300))]}))
-       (update-in db [:people id :state] (fn [_] state))))))
+     (println "STATE-CHANGE" id person)
+     (if (not (:avatar person))
+       (let [position [(/ 1920 2) (/ 1080 2)] #_[(+ 300 (rand-int 300)) (- 480 (rand-int 300))]]
+         (update-in db [:people id] (fn [x] (merge x {:id id :avatar :ironman :state state :position position}))))
+       (update-in db [:people id] (fn [x] (assoc x :state state)))))))
 
 (re-frame/register-handler
  :scroll

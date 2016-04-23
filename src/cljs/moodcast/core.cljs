@@ -26,6 +26,7 @@
   (re-frame/dispatch-sync [:initialize-db])
   (slack/connect)
   (svg/load-avatar :sharkman "img/sharkmanBody.svg" "img/sharkmanMask.svg" "img/sharkmanBodyH.svg" "img/sharkmanMaskH.svg")
+  (svg/load-avatar :ironman "img/ironmanBody.svg" "img/ironmanMask.svg" "img/ironmanBodyH.svg" "img/ironmanMaskH.svg")
   (svg/load-background :disco "img/bg.svg")
   (img/load-face :ile "img/p_Ilkka.png")
   (track-scroll)

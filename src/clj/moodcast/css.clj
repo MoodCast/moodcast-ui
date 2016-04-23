@@ -17,6 +17,14 @@
                  :left (px 0)
                  :top (px 0)
                  :z-index -1}]
+
+  [:.middle {:width (px 20)
+             :height (px 20)
+             :background-color "#f00"
+             :position :absolute
+             :left (px (/ 1920 2))
+             :top (px (/ 1080 2))
+             :z-index 100}]
   [:.avatar
    {:width (px 200)
     :height (px 320)}
@@ -36,6 +44,23 @@
                                  :left (px 61)
                                  :top (px -440)
                                  :z-index 20}]
+
+   [:.part.ironman.mask {:z-index 30}]
+   [:.part.ironman.mask.happy {:left (px 52)
+                               :top (px -370)}]
+   [:.part.ironman.mask.normal {:left (px 18)
+                                :top (px -370)}]
+   [:.part.ironman.face [:img {:width (px 64)
+                               :height (px 64)
+                               :border [[(px 1) :solid :red]]}]]
+   [:.part.ironman.face.happy {:left (px 60)
+                               :top (px -450)}]
+   [:.part.ironman.face.normal {:left (px 24)
+                                :top (px -450)}]
+   [:.part.ironman.face {:position :relative
+                         :z-index 20}]
+   ;;[:.part.ironman {:left (px 200)}]
+
    [:.part {:position :relative
             :left (px 0)
             :top (px 0)
