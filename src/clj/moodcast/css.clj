@@ -4,5 +4,7 @@
             [garden.units :as u :refer [px em percent s]]))
 
 (defstyles screen
-  [:html {:background-color "#333"}])
-  )
+  [:html {:background-color "#333"
+          :padding (em 0)
+          :margin (em 1)
+          :color "#eee"}])
