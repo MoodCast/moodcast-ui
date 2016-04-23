@@ -57,13 +57,17 @@
 (re-frame/register-handler
  :state-change
  (fn [db [_ id state]]
-   (let [person (get-in db [:people id])]
-     (println "STATE-CHANGE" id person)
-     (if (not (:avatar person))
-       (let [position #_[(/ 1920 2) (/ 1080 2)] [(+ 300 (rand-int 300)) (- 1080 200 (rand-int 300))]
-             avatar (random-avatar id)]
-         (update-in db [:people id] (fn [x] (merge x {:id id :avatar avatar :state state :position position}))))
-       (update-in db [:people id] (fn [x] (assoc x :state state)))))))
+   (let [person (get-in db [:people id])
+         new-db (if (not (:avatar person))
+                  (let [position #_[(/ 1920 2) (/ 1080 2)] [(+ 300 (rand-int 800)) (- 1080 200 (rand-int 300))]
+                        avatar (random-avatar id)]
+                    (update-in db [:people id] (fn [x]
+                                                 (println "CREATING NEW" id)
+                                                 {:id id :avatar avatar :state state :position position :face (:face x)})))
+                  (update-in db [:people id] (fn [x] (assoc x :state state))))]
+     (println "STATE-CHANGE" id (get-in new-db [:people id]))
+     new-db
+     )))
 
 (re-frame/register-handler
  :avatar-change
