@@ -55,14 +55,12 @@
 (defn send-msg []
   (re-frame/dispatch [:message :test]))
 
+
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       [:nav.controls
-        [:button.secondary.shadow {:on-click send-msg :class "pure-button"} "Test"]]
-       #_(into [:div.people]
-             (map (fn [p] ^{:key (:id p)} [person p]) @people))])))
+       [:div.people]])))
 
 
 
@@ -83,11 +81,8 @@
       [:div
        [:div.content.pure-g {:class (if @connected "connected" "disconnected")}
         [:div.pure-u-1
-         [:h1.brand "People"]
+         [:h1.brand "MoodCast"]
          [:div.page (panels @active-panel)]
          ]]
-       [:footer
-        [:div.pure-g
-         [:div.pure-u-1.right
-          [:img {:src "img/logo.png"}]]]]])
+       ])
     ))
