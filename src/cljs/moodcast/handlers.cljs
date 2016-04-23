@@ -47,7 +47,11 @@
 (defn random-avatar [id]
   (case id
     :macroz :nahkhiirmees
-    :ile :sharkman
+    :ile :spiderman
+    :liang :ironman
+    :s27 :sharkman
+    :valeria :catwoman
+    :joseacanada :robin
     (rand-nth [:sharkman :ironman :catwoman :nahkhiirmees :robin :spiderman])))
 
 (re-frame/register-handler
