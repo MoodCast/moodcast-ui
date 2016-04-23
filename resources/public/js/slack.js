@@ -1,10 +1,11 @@
-(function() {
+var Slack = function(cb) {
   var authToken = 'xoxp-9591936032-37041717591-37076895056-ddb0041d14';
   var slackData;
   var slackSocket;
   var moodItems = [];
   var userScores = {};
   var emojis = {};
+  var scoreChangeCallback = cb; // Store callback to do when scores change
 
   console.log('init slack stuff');
   getSlackData();
@@ -63,6 +64,7 @@
       'timestamp': timestamp
     });
     calculateUserScores();
+    scoreChangeCallback(userScores);
   }
 
   function calculateUserScores() {
@@ -94,6 +96,7 @@
     return text.match(TEST_REGEX);
   }
 
+  // DUMMY
   function getEmojiData() {
     emojis = {
       // Positive
@@ -119,4 +122,4 @@
       'sob': -1.8
     }
   }
-})()
+}
