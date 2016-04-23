@@ -68,7 +68,7 @@
             face-view [:img {:src face}]
             mask-string (get-in @avatar [:mask state])
             [x y] position]
-        (into [:div.avatar {:id person-id :style {:position :relative :left x :top y}}]
+        (into [:div.avatar {:id person-id :style {:position :absolute :left x :top y}}]
               [[avatar-part-div [id :body state] body-string]
                [avatar-part-div [id :mask state] mask-string]
                [avatar-part-div [id :face state] face-view]
