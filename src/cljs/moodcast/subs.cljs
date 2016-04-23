@@ -27,6 +27,11 @@
    (reaction (sort-by person-y (vals (:people @db))))))
 
 (re-frame/register-sub
+ :people-by-id
+ (fn [db _]
+   (reaction (:people @db))))
+
+(re-frame/register-sub
  :person
  (fn [db [_ id]]
    (reaction (get-in @db [:people id]))))
