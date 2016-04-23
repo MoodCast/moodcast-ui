@@ -28,9 +28,9 @@
   [:.avatar
    {:width (px 200)
     :height (px 320)}
-    [:img {:width (px 64)
-           :height (px 64)
-           :border [[(px 1) :solid :red]]}]
+    [:img {:width (px 80)
+           :height (px 80)
+           }]
    [:.part.body {:position :relative
                  :left (px -100)
                  :top (px -330)}]
@@ -38,8 +38,8 @@
                  :left (px -43)
                  :top (px (- -450 330))}]
    [:.part.face {:position :relative
-                 :left (px -24)
-                 :top (px (- -320 330))}]
+                 :left (px -30)
+                 :top (px (- -322 330))}]
    [:.name {:color "#eee"
             :text-shadow "-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black"
             :font-weight :bold
@@ -52,4 +52,4 @@
             ;;:border "1px solid black"
             :position :relative
             :left (px 0)
-            :top (px -860)}]])
+            :top (px -1120)}]])
