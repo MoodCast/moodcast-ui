@@ -68,7 +68,6 @@
             face-view [:img {:src face}]
             mask-string (get-in @avatar [:mask state])
             [x y] position]
-        (println "RENDERING" face)
         (into [:div.avatar {:style {:position :relative :left x :top y}}]
               [[avatar-part-div [id :body state] body-string]
                [avatar-part-div [id :mask state] mask-string]
@@ -83,15 +82,18 @@
        [html-div @background]])))
 
 (defn person-view [person]
-  [avatar->svg (:avatar person) (:state person) (:position person) (:face person)])
+  (println "VIEW" person)
+  (if (:avatar person)
+    [avatar->svg (:avatar person) (:state person) (:position person) (:face person)]
+    [:span]))
 
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       [:div.controls [:button {:on-click #(re-frame/dispatch [:random-update :ilkka])} "test"]]
+       [:div.controls [:button {:on-click #(re-frame/dispatch [:state-change (rand-int 1000) (if (< (rand) 0.5) :normal :happy)])} "test"]]
        [background :disco]
-       (into [:div.people] (map person-view @people))
+       (into [:div.people] (map (fn [p] [person-view p]) @people))
        ])))
 
 

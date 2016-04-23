@@ -48,14 +48,14 @@
  (fn [db [_ p]]
    (assoc-in db [:people (:id p)] p)))
 
-(defn random-state-update [p]
-  (println p)
-  (assoc p :state (if (< (rand) 0.5) :normal :happy)))
-
 (re-frame/register-handler
- :random-update
- (fn [db [_ id]]
-   (update-in db [:people id] random-state-update)))
+ :state-change
+ (fn [db [_ id state]]
+   (let [person (get-in db [:people id])]
+     (println "PERSON" id)
+     (if (not person)
+       (update-in db [:people id] (fn [_] {:id id :avatar :sharkman :state state :position [(+ 300 (rand-int 300)) (- 480 (rand-int 300))]}))
+       (update-in db [:people id :state] (fn [_] state))))))
 
 (re-frame/register-handler
  :scroll
