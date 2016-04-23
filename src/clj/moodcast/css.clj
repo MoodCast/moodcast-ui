@@ -18,7 +18,7 @@
   [:.controls {:z-index 100}]
   [:.background {:position :absolute
                  :left (px 0)
-                 :top (px 120)
+                 :top (px 0)
                  :z-index -1}]
 
   [:.middle {:width (px 20)
