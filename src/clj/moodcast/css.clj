@@ -67,7 +67,8 @@
             :left (px 0)
             :top (px 0)
             :width (em 2)}]
-   [:.name {:color "#333"
+   [:.name {:color "#eee"
+            :text-shadow "-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black"
             :font-weight :bold
             :font-variant :small-caps
             :display :inline-block
