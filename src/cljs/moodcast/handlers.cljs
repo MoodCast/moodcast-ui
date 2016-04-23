@@ -24,6 +24,11 @@
    (dissoc db :connected?)))
 
 (re-frame/register-handler
+ :load-background
+ (fn [db [_ id svg]]
+   (assoc-in db [:backgrounds id] svg)))
+
+(re-frame/register-handler
  :load-svg
  (fn [db [_ name item state svg]]
    (assoc-in db [:avatars name item state] svg)))

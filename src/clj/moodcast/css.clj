@@ -8,6 +8,12 @@
           :padding (em 0)
           :margin (em 1)
           :color "#eee"}]
+  [:.brand {:z-index 1}]
+  [:.controls {:z-index 100}]
+  [:.background {:position :absolute
+                 :left (px 0)
+                 :top (px 0)
+                 :z-index -1}]
   [:.avatar
    {:width (px 200)
     :height (px 320)}

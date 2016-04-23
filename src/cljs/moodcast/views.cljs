@@ -75,6 +75,13 @@
                [avatar-part-div [id :face state] face-view]
                ])))))
 
+(defn background [id]
+  (let [background (re-frame/subscribe [:background id])]
+    (fn [id]
+      (println @background)
+      [:div.background {:class id}
+       [html-div @background]])))
+
 (defn person-view [person]
   [avatar->svg (:avatar person) (:state person) (:position person) (:face person)])
 
@@ -82,7 +89,8 @@
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       [:button {:on-click #(re-frame/dispatch [:random-update :ilkka])} "test"]
+       [:div.controls [:button {:on-click #(re-frame/dispatch [:random-update :ilkka])} "test"]]
+       [background :disco]
        (into [:div.people] (map person-view @people))
        ])))
 
@@ -103,8 +111,8 @@
         connected (re-frame/subscribe [:connected?])]
     (fn []
       [:div
-       [:div.content.pure-g {:class (if @connected "connected" "disconnected")}
-        [:div.pure-u-1
+       [:div.content
+        [:div
          [:h1.brand "MoodCast"]
          [:div.page (panels @active-panel)]
          ]]

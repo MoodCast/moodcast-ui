@@ -33,6 +33,11 @@
    (reaction (get (:avatars @db) id))))
 
 (re-frame/register-sub
+ :background
+ (fn [db [_ id]]
+   (reaction (get (:backgrounds @db) id))))
+
+(re-frame/register-sub
  :scroll
  (fn [db _]
    (reaction (:scroll @db))))

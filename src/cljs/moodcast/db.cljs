@@ -3,5 +3,6 @@
 
 (def default-db
   {:name "MoodCast"
-   :people {:ilkka {:avatar :sharkman :state :happy :position [300 100]}}
-   :svgs {}})
+   :people {:ilkka {:avatar :sharkman :state :happy :position [400 480]}}
+   :backgrounds {}
+   :avatars {}})

@@ -4,6 +4,13 @@
             [cljs-http.client :as http]
             [cljs.core.async :refer [<!]]))
 
+(defn load-background [id filename]
+  (go (let [response (<! (http/get filename {:timeout 500}))
+            svg  (if (and response (:body response))
+                   (:body response)
+                   "not-found")]
+        (re-frame/dispatch [:load-background id svg]))))
+
 (defn load-svg [id item state filename]
   (go (let [response (<! (http/get filename {:timeout 500}))
             svg  (if (and response (:body response))
