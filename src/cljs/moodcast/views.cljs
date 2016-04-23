@@ -62,16 +62,19 @@
      content)])
 
 (defn avatar->svg [person-id id state position face]
-  (let [avatar (re-frame/subscribe [:avatar id])]
+  (let [avatars (re-frame/subscribe [:avatars])]
     (fn [person-id id state position]
-      (let [body-string (get-in @avatar [:body state])
-            face-view [:img {:src face}]
-            mask-string (get-in @avatar [:mask state])
+      (println "AVATAR" id)
+      (let [avatar (get @avatars id)
+            body-string (get-in avatar [:body state])
+            face-view [:img {:src (or face "")}]
+            mask-string (get-in avatar [:mask state])
             [x y] position]
-        (into [:div.avatar {:id person-id :style {:position :absolute :left x :top y}}]
+        (into [:div.avatar {:id person-id :style {:position :absolute :left x :top y}}
+               [:span (name person-id)]]
               [[avatar-part-div [id :body state] body-string]
-               [avatar-part-div [id :mask state] mask-string]
                [avatar-part-div [id :face state] face-view]
+               [avatar-part-div [id :mask state] mask-string]
                ])))))
 
 (defn background [id]
@@ -81,20 +84,23 @@
       [:div.background {:class id}
        [html-div @background]])))
 
-(defn person-view [person]
-  (println "VIEW" person)
-  (if (:avatar person)
-    [avatar->svg (:id person) (:avatar person) (:state person) (:position person) (:face person)]
-    [:span]))
+(defn person-view [id]
+  (let [person (re-frame/subscribe [:person id])]
+    (fn [id]
+      (println "VIEW" @person)
+      (if (:avatar @person)
+        [avatar->svg (:id @person) (:avatar @person) (:state @person) (:position @person) (:face @person)]
+        [:span]))))
 
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       [:div.controls [:button {:on-click #(re-frame/dispatch [:state-change :ile (if (< (rand) 0.5) :normal :happy)])} "test"]]
+       [:div.controls [:button {:on-click #(do (re-frame/dispatch [:avatar-change :ile (if (< (rand) 0.5) :sharkman :ironman)])
+                                               (re-frame/dispatch [:state-change :ile (if (< (rand) 0.5) :normal :happy)]))} "test"]]
        [:div.middle "M"]
        [background :disco]
-       (into [:div.people] (map (fn [p] [person-view p]) @people))
+       (into [:div.people] (map (fn [p] [person-view (:id p)]) @people))
        ])))
 
 

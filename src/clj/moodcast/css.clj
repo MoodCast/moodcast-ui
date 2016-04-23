@@ -30,28 +30,26 @@
     :height (px 320)}
    [:.part.sharkman {:left (px -65)
                      :top (px -310)}]
-   [:.part.sharkman.mask {:left (px (- 48 65))
-                          :top (px (- -370 310))
-                          :z-index 30}]
+   [:.part.sharkman.mask.happy {:left (px (- 48 65))
+                                :top (px (- -438 310))}]
    [:.part.sharkman.mask.normal {:left (px (- 38 65))
                                  :top (px (- -370 310))}]
    [:.part.sharkman.body.normal {:left (px -85)
                                 :top (px -310)}]
-   [:.part.sharkman.face {:position :relative
-                          :left (px (- 52 65))
-                          :top (px (- -440 310))
-                          :z-index 20}
+   [:.part.sharkman.face {:position :relative}
     [:img {:width (px 64)
            :height (px 64)
            :border [[(px 1) :solid :red]]}]]
+   [:.part.sharkman.face.happy {:left (px (- 52 65))
+                                :top (px (- -320 310))}]
    [:.part.sharkman.face.normal {:left (px (- 41 65))
-                                 :top (px (- -440 310))}]
+                                 :top (px (- -320 310))}]
 
    [:.part.ironman {:left (px -55)
                     :top (px -350)}]
-   [:.part.ironman.mask {:z-index 30}]
+   [:.part.ironman.mask {}]
    [:.part.ironman.mask.happy {:left (px (- 52 85))
-                               :top (px (- -370 350))}]
+                               :top (px (- -435 350))}]
    [:.part.ironman.mask.normal {:left (px (- 18 55))
                                 :top (px (- -370 350))}]
    [:.part.ironman.body.happy {:left (px -85)
@@ -60,11 +58,10 @@
                                :height (px 64)
                                :border [[(px 1) :solid :red]]}]]
    [:.part.ironman.face.happy {:left (px (- 60 85))
-                               :top (px (- -450 350))}]
+                               :top (px (- -350 350))}]
    [:.part.ironman.face.normal {:left (px (- 30 55))
                                 :top (px (- -450 350))}]
-   [:.part.ironman.face {:position :relative
-                         :z-index 20}]
+   [:.part.ironman.face {:position :relative}]
 
    [:.part {:position :relative
             :left (px 0)

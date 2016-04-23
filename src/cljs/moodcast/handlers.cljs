@@ -57,6 +57,14 @@
        (update-in db [:people id] (fn [x] (assoc x :state state)))))))
 
 (re-frame/register-handler
+ :avatar-change
+ (fn [db [_ id avatar]]
+   (let [person (get-in db [:people id])]
+     (println "AVATAR-CHANGE" id person)
+     (let [position [(/ 1920 2) (/ 1080 2)] #_[(+ 300 (rand-int 300)) (- 1080 200 (rand-int 300))]]
+       (update-in db [:people id] (fn [x] (merge x {:id id :avatar avatar :state :normal :position position})))))))
+
+(re-frame/register-handler
  :scroll
  (fn [db [_ y]]
    (assoc db :scroll y)))

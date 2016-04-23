@@ -23,9 +23,14 @@
    (reaction (vals (:people @db)))))
 
 (re-frame/register-sub
+ :person
+ (fn [db [_ id]]
+   (reaction (get-in @db [:people id]))))
+
+(re-frame/register-sub
  :avatars
  (fn [db _]
-   (reaction (vals (:avatars @db)))))
+   (reaction (:avatars @db))))
 
 (re-frame/register-sub
  :avatar
