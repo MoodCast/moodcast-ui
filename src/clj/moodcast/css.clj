@@ -23,6 +23,10 @@
     [:img {:width (px 64)
            :height (px 64)
            :border [[(px 1) :solid :red]]}]]
+   [:.part.sharkman.face.normal {:position :relative
+                                 :left (px 61)
+                                 :top (px -440)
+                                 :z-index 20}]
    [:.part {:position :relative
             :left (px 0)
             :top (px 0)
