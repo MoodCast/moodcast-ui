@@ -44,16 +44,21 @@
  (fn [db [_ msg]]
    db))
 
+(defn random-avatar [id]
+  (case id
+    :macroz :sharkman
+    :ile :ironman
+    (rand-nth [:sharkman :ironman])))
+
 (re-frame/register-handler
  :state-change
  (fn [db [_ id state]]
    (let [person (get-in db [:people id])]
      (println "STATE-CHANGE" id person)
      (if (not (:avatar person))
-       (let [position #_[(/ 1920 2) (/ 1080 2)] [(+ 300 (rand-int 300)) (- 1080 200 (rand-int 300))]]
-         (update-in db [:people id] (fn [x] (merge x {:id id :avatar (case (rand-int 2)
-                                                                       0 :sharkman
-                                                                       1 :ironman) :state state :position position}))))
+       (let [position #_[(/ 1920 2) (/ 1080 2)] [(+ 300 (rand-int 300)) (- 1080 200 (rand-int 300))]
+             avatar (random-avatar id)]
+         (update-in db [:people id] (fn [x] (merge x {:id id :avatar avatar :state state :position position}))))
        (update-in db [:people id] (fn [x] (assoc x :state state)))))))
 
 (re-frame/register-handler
