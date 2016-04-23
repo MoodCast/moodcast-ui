@@ -56,27 +56,33 @@
 
 (defn avatar-part-div [types content]
   [:div.part {:class (string/join " " (map name types))}
-   [:div {:dangerouslySetInnerHTML
-          #js{:__html content}}]])
+   (if (string? content)
+     [:div {:dangerouslySetInnerHTML
+            #js{:__html content}}]
+     content)])
 
-(defn avatar->svg [id state position]
+(defn avatar->svg [id state position face]
   (let [avatar (re-frame/subscribe [:avatar id])]
     (fn [id state position]
       (let [body-string (get-in @avatar [:body state])
+            face-view [:img {:src face}]
             mask-string (get-in @avatar [:mask state])
             [x y] position]
+        (println "RENDERING" face)
         (into [:div.avatar {:style {:position :relative :left x :top y}}]
-              [(avatar-part-div [id :body state] body-string)
-               (avatar-part-div [id :mask state] mask-string)])))))
+              [[avatar-part-div [id :body state] body-string]
+               [avatar-part-div [id :mask state] mask-string]
+               [avatar-part-div [id :face state] face-view]
+               ])))))
 
 (defn person-view [person]
-  [avatar->svg (:avatar person) (:state person) (:position person)])
+  [avatar->svg (:avatar person) (:state person) (:position person) (:face person)])
 
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       [:button {:on-click #(re-frame/dispatch [:random-update :make])} "test"]
+       [:button {:on-click #(re-frame/dispatch [:random-update :ilkka])} "test"]
        (into [:div.people] (map person-view @people))
        ])))
 

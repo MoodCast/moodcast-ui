@@ -29,6 +29,11 @@
    (assoc-in db [:avatars name item state] svg)))
 
 (re-frame/register-handler
+ :load-face
+ (fn [db [_ id filename]]
+   (assoc-in db [:people id :face] filename)))
+
+(re-frame/register-handler
  :message
  (fn [db [_ msg]]
    db))

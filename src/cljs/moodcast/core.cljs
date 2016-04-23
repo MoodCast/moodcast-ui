@@ -6,7 +6,8 @@
               [moodcast.routes :as routes]
               [moodcast.views :as views]
               [moodcast.config :as config]
-              [moodcast.svg :as svg]))
+              [moodcast.svg :as svg]
+              [moodcast.img :as img]))
 
 (when config/debug?
   (println "dev mode"))
@@ -24,5 +25,6 @@
   (re-frame/dispatch-sync [:initialize-db])
   ;;(slack/connect)
   (svg/load-avatar :sharkman "img/sharkmanBody.svg" "img/sharkmanMask.svg" "img/sharkmanBodyH.svg" "img/sharkmanMaskH.svg")
+  (img/load-face :ilkka "img/p_ilkka.png")
   (track-scroll)
   (mount-root))
