@@ -76,7 +76,7 @@
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       (into [:div.people ] (map person-view @people))
+       (into [:div.people] (map person-view @people))
        ])))
 
 
