@@ -9,14 +9,14 @@
             svg  (if (and response (:body response))
                    (:body response)
                    "not-found")]
-        (re-frame/dispatch [:load-background id svg]))))
+        (re-frame/dispatch-sync [:load-background id svg]))))
 
 (defn load-svg [id item state filename]
   (go (let [response (<! (http/get filename {:timeout 500}))
             svg  (if (and response (:body response))
                    (:body response)
                    "not-found")]
-        (re-frame/dispatch [:load-svg id item state svg]))))
+        (re-frame/dispatch-sync [:load-svg id item state svg]))))
 
 (defn load-avatar [id body mask body-happy mask-happy]
   (load-svg id :body :normal body)

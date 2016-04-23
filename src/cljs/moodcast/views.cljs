@@ -61,19 +61,21 @@
             #js{:__html content}}]
      content)])
 
-(defn avatar->svg [avatars person-id id state position face]
+(defn avatar->svg [person-id id state position face]
   ;;(println "RENDER" person-id id (count @people))
-  (let [avatar (get avatars id)
-        body-string (get-in avatar [:body state])
-        face-view [:img {:src (or face "")}]
-        mask-string (get-in avatar [:mask state])
-        [x y] position]
-    (into [:div.avatar {:id person-id :style {:position :absolute :left x :top y}}]
-          [[avatar-part-div [id :body state] body-string]
-           [avatar-part-div [id :face state] face-view]
-           [avatar-part-div [id :mask state] mask-string]
-           [:span.name (name person-id)]
-           ])))
+  (let [avatars (re-frame/subscribe [:avatars])]
+    (fn [person-id id state position face]
+      (let [avatar (get @avatars id)
+            body-string (get-in avatar [:body state])
+            face-view [:img {:src (or face "")}]
+            mask-string (get-in avatar [:mask state])
+            [x y] position]
+        (into [:div.avatar {:id person-id :style {:position :absolute :left x :top y}}]
+              [[avatar-part-div [id :body state] body-string]
+               [avatar-part-div [id :face state] face-view]
+               [avatar-part-div [id :mask state] mask-string]
+               [:span.name (name person-id)]
+               ])))))
 
 (defn background [id]
   (let [background (re-frame/subscribe [:background id])]
@@ -83,13 +85,11 @@
        [html-div @background]])))
 
 (defn person-view [id]
-  (let [avatars (re-frame/subscribe [:avatars])
-        person (re-frame/subscribe [:person id])
-        people (re-frame/subscribe [:people])]
+  (let [person (re-frame/subscribe [:person id])]
     (fn [id]
-      (println "VIEW" @person (count @people))
+      (println "VIEW" id @person)
       (if (:avatar @person)
-        (avatar->svg @avatars (:id @person) (:avatar @person) (:state @person) (:position @person) (:face @person))
+        [avatar->svg (:id @person) (:avatar @person) (:state @person) (:position @person) (:face @person)]
         [:span]))))
 
 (defn random-person []
@@ -107,9 +107,6 @@
       (println "PEOPLE" (count @people))
       (println "AVATARS" (keys @avatars))
       [:div
-       [:div.controls
-        [:button {:on-click random-person} "random"]]
-       ;;[:div.middle "M"]
        [background :disco]
        (into [:div.people] (doall (map (fn [p] [person-view (:id p)]) @people)))
        ])))
