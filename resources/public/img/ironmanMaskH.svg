@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="83px" height="89px" viewBox="0 0 83 89" enable-background="new 0 0 83 89" xml:space="preserve">
-<g>
-	<g>
-		<g>
-			<path opacity="0.6" fill="#F9F900" d="M68.924,36C67.055,6.568,41.448,10.714,39.926,10.986
-				C38.403,10.714,12.797,6.568,10.928,36C9.666,61.667,25.333,66.892,25.333,66.892L30.667,84h9.185H40h10.185l4.334-17.108
-				C54.519,66.892,70.186,61.667,68.924,36z"/>
-			<path fill="none" stroke="#44484F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-				M68.924,36C67.055,6.568,41.448,10.714,39.926,10.986C38.403,10.714,12.797,6.568,10.928,36
-				C9.666,61.667,25.333,66.892,25.333,66.892L30.667,84h9.185H40h10.185l4.334-17.108C54.519,66.892,70.186,61.667,68.924,36z"/>
-		</g>
-	</g>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="258px"
+	 height="346.166px" viewBox="0 0 258 346.166" style="enable-background:new 0 0 258 346.166;" xml:space="preserve">
+<g id="ironmanMaskH">
+	<rect x="-0.333" y="0.666" style="fill:none;" width="99" height="146"/>
+	
+		<path style="fill:#F9F900;fill-opacity:0.3;stroke:#1B2536;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+		M79.682,79.557c-1.806-28.465-26.57-24.456-28.044-24.19c-1.471-0.265-26.235-4.274-28.043,24.19
+		c-1.22,24.822,13.932,29.875,13.932,29.875l5.159,16.547h8.882h0.143h9.852l4.189-16.547
+		C65.751,109.432,80.905,104.379,79.682,79.557z"/>
+	<path style="fill:#ED1C24;stroke:#1B2536;stroke-width:4;stroke-miterlimit:10;" d="M82.76,75.685c0,0-0.425-25.019-20.733-29.019
+		H51.71H41.395c-20.308,4-21.279,29.019-21.279,29.019l-6.449,2.904v16.119l6.449,2.936l12.254,20.022h7.737l-1.599-8.864
+		L28.492,90.619l5.167-7.587L29.822,71.46l10.284-6.326l4.835,7.532h6.769h6.77l4.837-7.514L73.6,71.71l-3.837,11.499l5.165,7.607
+		L64.915,108.83l-1.598,8.836h7.736L82.76,97.644l5.906-2.936V78.588L82.76,75.685z"/>
 </g>
-<path fill="#ED1C24" stroke="#44484F" stroke-width="4" stroke-miterlimit="10" d="M72,32c0,0-0.334-26.667-21.334-30
-	C50.666,1.667,40,2,40,2S29.334,1.667,29.334,2C8.334,5.333,8,32,8,32l-6,3v16.667L8,55l12,21h8l-1.652-9.462l-10.355-18.95
-	l5.342-7.921l-3.967-12l10.633-7L33,28h7h7l5-7.333l10.633,7l-3.967,12l5.342,7.921l-10.355,18.95L52,76h8l12-21l6-3.333V35L72,32z"
-	/>
+<g id="Layer_1">
+</g>
 </svg>
