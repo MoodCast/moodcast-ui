@@ -48,12 +48,23 @@
 (defn send-msg []
   (re-frame/dispatch [:message :test]))
 
+(def dummy-svg "<svg viewBox=\"0 0 100 100\"><circle style=\"fill:green;\" r=\"100\" cx=\"50\" cy=\"50\"></circle></svg>")
+
+(defn html-div [html-content]
+  [:div {:dangerouslySetInnerHTML
+         #js{:__html html-content}}])
+
+(defn to-svg [svg-string]
+  (html-div svg-string))
 
 (defn home-panel []
-  (let [people (re-frame/subscribe [:people])]
+  (let [people (re-frame/subscribe [:people])
+        svgs (re-frame/subscribe [:svgs])]
     (fn []
       [:div
-       [:div.people "hello"]])))
+       (into [:div.people] (map to-svg @svgs))
+;;       (map to-svg @svgs)
+       ])))
 
 
 

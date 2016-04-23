@@ -3,4 +3,5 @@
 
 (def default-db
   {:name "MoodCast"
-   :people {}})
+   :people {}
+   :svgs {}})

@@ -23,6 +23,11 @@
    (reaction (sort-by :name (remove :disabled? (vals (:people @db)))))))
 
 (re-frame/register-sub
+ :svgs
+ (fn [db _]
+   (reaction (vals (:svgs @db)))))
+
+(re-frame/register-sub
  :scroll
  (fn [db _]
    (reaction (:scroll @db))))

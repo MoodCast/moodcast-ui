@@ -24,9 +24,9 @@
    (dissoc db :connected?)))
 
 (re-frame/register-handler
- :load-users
- (fn [db [_ users]]
-   (assoc db :users users)))
+ :load-svg
+ (fn [db [_ name svg]]
+   (assoc-in db [:svgs name] svg)))
 
 (re-frame/register-handler
  :message
