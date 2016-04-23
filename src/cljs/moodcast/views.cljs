@@ -76,6 +76,7 @@
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
+       [:button {:on-click #(re-frame/dispatch [:random-update :make])} "test"]
        (into [:div.people] (map person-view @people))
        ])))
 

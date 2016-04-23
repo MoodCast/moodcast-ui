@@ -38,6 +38,15 @@
  (fn [db [_ p]]
    (assoc-in db [:people (:id p)] p)))
 
+(defn random-state-update [p]
+  (println p)
+  (assoc p :state (if (< (rand) 0.5) :normal :happy)))
+
+(re-frame/register-handler
+ :random-update
+ (fn [db [_ id]]
+   (update-in db [:people id] random-state-update)))
+
 (re-frame/register-handler
  :scroll
  (fn [db [_ y]]
