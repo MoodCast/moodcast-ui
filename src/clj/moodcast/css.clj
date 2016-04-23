@@ -8,7 +8,10 @@
           :padding (em 0)
           :margin (em 1)
           :color "#eee"}]
-  [:.avatar [:.part.sharkman.mask {:left (px 48)
+  [:.avatar
+   {:width (px 200)
+    :height (px 320)}
+   [:.part.sharkman.mask {:left (px 48)
                                    :top (px -370)}]
    [:.part {:position :relative
                      :left (px 0)
