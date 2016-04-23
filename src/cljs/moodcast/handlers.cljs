@@ -59,7 +59,7 @@
  (fn [db [_ id state]]
    (let [person (get-in db [:people id])
          new-db (if (not (:avatar person))
-                  (let [position #_[(/ 1920 2) (/ 1080 2)] [(+ 300 (rand-int 800)) (- 1080 200 (rand-int 300))]
+                  (let [position #_[(/ 1920 2) (/ 1080 2)] [(+ 300 (rand-int 1200)) (- 1080 10 (rand-int 300))]
                         avatar (random-avatar id)]
                     (update-in db [:people id] (fn [x]
                                                  (println "CREATING NEW" id)

@@ -24,6 +24,8 @@
                                     "test/js"
                                     "resources/public/css/compiled"]
 
+  :main moodcast.core
+
   :figwheel {:css-dirs ["resources/public/css"]
              :ring-handler moodcast.handler/handler}
 

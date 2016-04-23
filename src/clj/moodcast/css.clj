@@ -7,15 +7,18 @@
   [:html {:background-color "#333"
           :padding (em 0)
           :margin (em 1)
-          :color "#eee"}]
+          :color "#eee"
+          }]
+  [:body {:overflow :hidden}]
   [:.brand {:font-size (em 5)
             :font-variant :small-caps
             :text-shadow [[(px 5) (px 5) (px 5) :black]]
+            :padding-top (px 100)
             :z-index 1}]
   [:.controls {:z-index 100}]
   [:.background {:position :absolute
                  :left (px 0)
-                 :top (px 0)
+                 :top (px 120)
                  :z-index -1}]
 
   [:.middle {:width (px 20)

@@ -77,7 +77,6 @@
 (defn background [id]
   (let [background (re-frame/subscribe [:background id])]
     (fn [id]
-      (println @background)
       [:div.background {:class id}
        [html-div @background]])))
 
@@ -126,7 +125,7 @@
       [:div
        [:div.content
         [:div
-         [:h1.brand "MoodCast"]
+         ;;[:h1.brand "MoodCast"]
          [:div.page (panels @active-panel)]
          ]]
        ])
