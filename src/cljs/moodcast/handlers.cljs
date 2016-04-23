@@ -50,8 +50,10 @@
    (let [person (get-in db [:people id])]
      (println "STATE-CHANGE" id person)
      (if (not (:avatar person))
-       (let [position [(/ 1920 2) (/ 1080 2)] #_[(+ 300 (rand-int 300)) (- 480 (rand-int 300))]]
-         (update-in db [:people id] (fn [x] (merge x {:id id :avatar :sharkman :state state :position position}))))
+       (let [position #_[(/ 1920 2) (/ 1080 2)] [(+ 300 (rand-int 300)) (- 1080 200 (rand-int 300))]]
+         (update-in db [:people id] (fn [x] (merge x {:id id :avatar (case (rand-int 2)
+                                                                       0 :sharkman
+                                                                       1 :ironman) :state state :position position}))))
        (update-in db [:people id] (fn [x] (assoc x :state state)))))))
 
 (re-frame/register-handler
