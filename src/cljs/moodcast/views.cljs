@@ -13,14 +13,6 @@
 (defn fi-now []
   (timef/unparse formatter-fi (time/now)))
 
-#_(defn count-score []
-  (let [claims (re-frame/subscribe [:claims])
-        data (atom {})]
-    (fn []
-      [:span (let [as (filter :applies? @claims)
-                   c (count (filter :value as))]
-               (if (empty? as) "--"
-                   (str (gstring/format "%.2f" (* 100 (/ (double c) (count as)))))))])))
 
 ;; guide
 
