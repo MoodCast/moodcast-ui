@@ -24,7 +24,6 @@ var Slack = function(cb) {
   function initSlackConnection(response) {
     console.log('rtm start');
     slackData = JSON.parse(response);
-    console.log(slackData);
     slackSocket = new WebSocket(slackData.url);
     slackSocket.onopen = initSocketEvents;
   }
@@ -68,25 +67,21 @@ var Slack = function(cb) {
   }
 
   function calculateUserScores() {
-    console.log('calulating user scores', moodItems);
     var redraw = false;
     userScores = _.chain(moodItems)
     .groupBy('user')
     .mapKeys(getUsername)
     .mapValues(calculateScore)
     .value();
-    console.log('user scores', userScores);
   }
 
   function calculateScore(values) {
-    console.log('calculating score for', values);
     var sum = 0.0;
     _.each(values, function(v) { sum += v.value });
     return parseFloat(sum / values.length).toFixed(2);
   }
 
   function getUsername(v, id) {
-    console.log('finding user by id', id);
     var user = _.find(slackData.users, {'id': id})
     return user ? user.name : 'Not found'
   }
