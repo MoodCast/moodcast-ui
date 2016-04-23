@@ -66,8 +66,8 @@
             mask-string (get-in @avatar [:mask state])
             [x y] position]
         (into [:div.avatar {:style {:position :relative :left x :top y}}]
-              [(avatar-part-div [id :body] body-string)
-               (avatar-part-div [id :mask] mask-string)])))))
+              [(avatar-part-div [id :body state] body-string)
+               (avatar-part-div [id :mask state] mask-string)])))))
 
 (defn person-view [person]
   [avatar->svg (:avatar person) (:state person) (:position person)])
