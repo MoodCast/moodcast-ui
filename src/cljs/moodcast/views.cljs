@@ -54,20 +54,29 @@
   [:div {:dangerouslySetInnerHTML
          #js{:__html html-content}}])
 
-(defn avatar->svg [id state]
+(defn avatar-part-div [types content]
+  [:div.part {:class (string/join " " (map name types))}
+   [:div {:dangerouslySetInnerHTML
+          #js{:__html content}}]])
+
+(defn avatar->svg [id state position]
   (let [avatar (re-frame/subscribe [:avatar id])]
-    (fn [id state]
-      (let [svg-string (get-in @avatar [:body state])]
-        (html-div svg-string)))))
+    (fn [id state position]
+      (let [body-string (get-in @avatar [:body state])
+            mask-string (get-in @avatar [:mask state])
+            [x y] position]
+        (into [:div.avatar {:style {:position :relative :left x :top y}}]
+              [(avatar-part-div [id :body] body-string)
+               (avatar-part-div [id :mask] mask-string)])))))
 
 (defn person-view [person]
-  [avatar->svg (:avatar person) (:state person)])
+  [avatar->svg (:avatar person) (:state person) (:position person)])
 
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])]
     (fn []
       [:div
-       (into [:div.people] (map person-view @people))
+       (into [:div.people ] (map person-view @people))
        ])))
 
 

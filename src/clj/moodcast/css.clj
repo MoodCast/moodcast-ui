@@ -7,4 +7,10 @@
   [:html {:background-color "#333"
           :padding (em 0)
           :margin (em 1)
-          :color "#eee"}])
+          :color "#eee"}]
+  [:.avatar [:.part.sharkman.mask {:left (px 48)
+                                   :top (px -370)}]
+   [:.part {:position :relative
+                     :left (px 0)
+                     :top (px 0)
+                     :width (em 2)}]])

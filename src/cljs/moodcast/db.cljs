@@ -3,5 +3,5 @@
 
 (def default-db
   {:name "MoodCast"
-   :people {:make {:avatar :sharkman :state :happy}}
+   :people {:make {:avatar :sharkman :state :happy :position [300 100]}}
    :svgs {}})
