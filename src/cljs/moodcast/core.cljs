@@ -27,6 +27,6 @@
   (slack/connect)
   (svg/load-avatar :sharkman "img/sharkmanBody.svg" "img/sharkmanMask.svg" "img/sharkmanBodyH.svg" "img/sharkmanMaskH.svg")
   (svg/load-background :disco "img/bg.svg")
-  (img/load-face :ilkka "img/p_Ilkka.png")
+  (img/load-face :ile "img/p_Ilkka.png")
   (track-scroll)
   (mount-root))

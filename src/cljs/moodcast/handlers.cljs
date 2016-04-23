@@ -36,7 +36,8 @@
 (re-frame/register-handler
  :load-face
  (fn [db [_ id filename]]
-   (assoc-in db [:people id :face] filename)))
+   (println "LOAD FACE" id filename)
+   (update-in db [:people id :face] (fn [_] filename))))
 
 (re-frame/register-handler
  :message
