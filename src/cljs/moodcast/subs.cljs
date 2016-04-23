@@ -17,10 +17,14 @@
  (fn [db _]
    (reaction (:connected? @db))))
 
+(defn person-y [p]
+  (let [position (get p :position [0 0])]
+    (second position)))
+
 (re-frame/register-sub
  :people
  (fn [db _]
-   (reaction (:people @db))))
+   (reaction (sort-by person-y (vals (:people @db))))))
 
 (re-frame/register-sub
  :person

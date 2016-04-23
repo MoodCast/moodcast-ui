@@ -103,15 +103,15 @@
 (defn home-panel []
   (let [people (re-frame/subscribe [:people])]
     (fn []
-      (println "PEOPLE" (keys @people))
+      ;;(println "PEOPLE" (keys @people))
       [:div
        [:div.controls
         [:button {:on-click random-person} "random"]
         #_[:button {:on-click #(do (re-frame/dispatch [:avatar-change :ile (if (< (rand) 0.5) :sharkman :ironman)])
                                                (re-frame/dispatch [:state-change :ile (if (< (rand) 0.5) :normal :happy)]))} "test"]]
-       [:div.middle "M"]
+       ;;[:div.middle "M"]
        [background :disco]
-       (into [:div.people] (map (fn [p] [person-view (:id p)]) (vals @people)))
+       (into [:div.people] (map (fn [p] [person-view (:id p)]) @people))
        ])))
 
 
