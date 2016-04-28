@@ -57,3 +57,15 @@ Wait a bit, then browse to [http://localhost:3449](http://localhost:3449).
 lein clean
 lein cljsbuild once min
 ```
+
+## Production deployment
+
+```
+ssh root@moodcast.rocks (using public key)
+
+cd moodcast-ui
+nohup ./lein run dev
+```
+
+Also you may need to `scp` files or `lein garden once` to build the CSS files.
+
